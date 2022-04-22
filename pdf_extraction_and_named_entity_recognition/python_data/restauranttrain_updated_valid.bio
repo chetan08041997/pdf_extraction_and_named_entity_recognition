@@ -1,0 +1,10697 @@
+where	O
+can	O
+i	O
+find	O
+the	O
+best	B-Rating
+gourmet	B-Dish
+burger	I-Dish
+
+where	O
+can	O
+i	O
+find	O
+the	O
+best	B-Rating
+place	B-Location
+chinese	B-Cuisine
+to	O
+eat	O
+
+where	O
+can	O
+i	O
+find	O
+the	O
+best	B-Rating
+place	O
+in	B-Location
+town	I-Location
+to	O
+eat	O
+dinner	B-Hours
+
+where	O
+can	O
+i	O
+find	O
+the	O
+best	B-Price
+prices	O
+in	O
+the	O
+morning	B-Hours
+around	I-Hours
+8	I-Hours
+am	I-Hours
+
+where	O
+can	O
+i	O
+find	O
+the	O
+cheapest	B-Price
+falafel	B-Dish
+
+where	O
+can	O
+i	O
+find	O
+the	O
+closest	B-Location
+pizza	B-Cuisine
+place	O
+
+where	O
+can	O
+i	O
+find	O
+the	O
+closest	B-Location
+place	I-Location
+to	O
+eat	O
+near	B-Location
+my	I-Location
+house	I-Location
+
+where	O
+can	O
+i	O
+find	O
+the	O
+nearest	B-Location
+all	O
+you	O
+can	O
+eat	O
+buffet	O
+
+where	O
+can	O
+i	O
+find	O
+the	O
+nearest	B-Location
+italian	B-Cuisine
+restaurant	O
+
+where	O
+can	O
+i	O
+find	O
+the	O
+nearest	B-Location
+mcdonalds	B-Restaurant_Name
+
+where	O
+can	O
+i	O
+find	O
+the	O
+nearest	B-Location
+sports	B-Amenity
+bar	I-Amenity
+
+where	O
+can	O
+i	O
+find	O
+the	O
+nearest	B-Location
+thanh	B-Cuisine
+than	O
+restaurant	O
+thats	O
+open	B-Hours
+7	I-Hours
+days	I-Hours
+a	I-Hours
+week	I-Hours
+
+where	O
+can	O
+i	O
+find	O
+the	O
+restaurant	O
+with	O
+the	O
+most	B-Dish
+flavours	I-Dish
+of	O
+ice	B-Dish
+cream	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+a	O
+beef	B-Dish
+dish	I-Dish
+delivered	B-Amenity
+
+where	O
+can	O
+i	O
+get	O
+a	O
+beer	B-Dish
+and	O
+some	O
+food	O
+
+where	O
+can	O
+i	O
+get	O
+a	O
+big	O
+hamburger	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+a	O
+bite	O
+to	O
+eat	O
+after	B-Hours
+midnight	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+a	O
+bite	O
+to	O
+eat	O
+round	B-Location
+here	I-Location
+
+where	O
+can	O
+i	O
+get	O
+a	O
+bowl	O
+of	O
+soup	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+a	O
+bowl	O
+of	O
+the	O
+spiciest	B-Dish
+chili	I-Dish
+in	B-Location
+town	I-Location
+
+where	O
+can	O
+i	O
+get	O
+a	O
+burger	B-Dish
+and	I-Dish
+fries	I-Dish
+at	O
+300	B-Hours
+am	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+a	O
+burger	B-Dish
+for	O
+cheap	B-Price
+
+where	O
+can	O
+i	O
+get	O
+a	O
+burrito	B-Dish
+for	O
+less	B-Price
+than	I-Price
+5	I-Price
+
+where	O
+can	O
+i	O
+get	O
+a	O
+calzone	B-Dish
+around	B-Location
+here	I-Location
+
+where	O
+can	O
+i	O
+get	O
+a	O
+cheap	B-Price
+meal	O
+before	B-Hours
+8	I-Hours
+am	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+a	O
+cheap	B-Price
+sandwich	B-Cuisine
+at	O
+an	O
+authentic	B-Cuisine
+jewish	I-Cuisine
+deli	I-Cuisine
+in	O
+new	B-Location
+york	I-Location
+
+where	O
+can	O
+i	O
+get	O
+a	O
+cheap	B-Price
+slice	O
+of	O
+pizza	B-Dish
+near	B-Location
+central	I-Location
+park	I-Location
+
+where	O
+can	O
+i	O
+get	O
+a	O
+cheap	B-Price
+tomato	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+a	O
+chicken	B-Dish
+sandwich	I-Dish
+from	O
+
+where	O
+can	O
+i	O
+get	O
+a	O
+churro	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+a	O
+coffee	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+a	O
+crepe	B-Dish
+with	O
+desert	B-Dish
+toppings	O
+and	O
+fillings	O
+
+where	O
+can	O
+i	O
+get	O
+a	O
+cup	B-Dish
+of	I-Dish
+coffee	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+a	O
+cup	B-Dish
+of	I-Dish
+coffee	I-Dish
+near	B-Location
+dillon	I-Location
+mt	I-Location
+
+where	O
+can	O
+i	O
+get	O
+a	O
+decent	B-Rating
+steak	B-Dish
+with	I-Dish
+mushrooms	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+a	O
+delicious	O
+gyro	B-Dish
+on	O
+long	B-Location
+island	I-Location
+
+where	O
+can	O
+i	O
+get	O
+a	O
+drink	B-Dish
+and	O
+a	O
+cheap	B-Price
+meal	O
+
+where	O
+can	O
+i	O
+get	O
+a	O
+fair	B-Price
+priced	O
+slice	B-Dish
+of	I-Dish
+pie	I-Dish
+within	B-Location
+five	I-Location
+miles	I-Location
+of	O
+here	O
+
+where	O
+can	O
+i	O
+get	O
+a	O
+five	B-Price
+dollar	I-Price
+meal	O
+
+where	O
+can	O
+i	O
+get	O
+a	O
+fresh	B-Dish
+bagel	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+a	O
+get	O
+a	O
+salad	B-Dish
+at	O
+happy	B-Hours
+hour	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+a	O
+good	B-Dish
+amount	I-Dish
+of	I-Dish
+meat	I-Dish
+at	O
+noon	B-Location
+
+where	O
+can	O
+i	O
+get	O
+a	O
+good	B-Rating
+burrito	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+a	O
+good	B-Rating
+hamburger	B-Cuisine
+
+where	O
+can	O
+i	O
+get	O
+a	O
+good	B-Rating
+iced	B-Dish
+coffee	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+a	O
+good	B-Rating
+meal	O
+
+where	O
+can	O
+i	O
+get	O
+a	O
+good	B-Rating
+meal	O
+in	O
+casual	B-Amenity
+clothes	O
+
+where	O
+can	O
+i	O
+get	O
+a	O
+good	B-Rating
+omelette	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+a	O
+good	B-Rating
+pizza	B-Dish
+in	B-Location
+this	I-Location
+town	I-Location
+
+where	O
+can	O
+i	O
+get	O
+a	O
+good	B-Price
+price	O
+on	O
+two	B-Dish
+dozen	I-Dish
+bagels	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+a	O
+good	B-Rating
+salad	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+a	O
+good	B-Rating
+stake	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+a	O
+good	B-Rating
+steak	B-Dish
+and	O
+glass	B-Dish
+of	I-Dish
+wine	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+a	O
+good	B-Rating
+steak	B-Dish
+in	O
+this	O
+city	B-Location
+
+where	O
+can	O
+i	O
+get	O
+a	O
+good	O
+taco	O
+
+where	O
+can	O
+i	O
+get	O
+a	O
+great	B-Rating
+caesar	B-Dish
+salad	I-Dish
+around	B-Hours
+6	I-Hours
+pm	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+a	O
+great	B-Rating
+salad	B-Dish
+from	O
+
+where	O
+can	O
+i	O
+get	O
+a	O
+hamber	B-Dish
+and	I-Dish
+shake	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+a	O
+hamburger	B-Dish
+after	B-Hours
+3	I-Hours
+am	I-Hours
+within	B-Location
+1	I-Location
+mile	I-Location
+of	I-Location
+here	I-Location
+
+where	O
+can	O
+i	O
+get	O
+a	O
+hamburger	B-Dish
+and	O
+fries	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+a	O
+hot	B-Cuisine
+meal	O
+around	B-Location
+here	I-Location
+
+where	O
+can	O
+i	O
+get	O
+a	O
+huge	O
+appetizer	B-Dish
+for	O
+happy	O
+hour	O
+
+where	O
+can	O
+i	O
+get	O
+a	O
+kosher	B-Cuisine
+lunch	B-Hours
+that	O
+has	O
+large	B-Amenity
+portions	I-Amenity
+of	O
+food	O
+
+where	O
+can	O
+i	O
+get	O
+a	O
+martini	B-Dish
+after	B-Hours
+1	I-Hours
+am	I-Hours
+in	B-Location
+faneuil	I-Location
+hall	I-Location
+square	I-Location
+
+where	O
+can	O
+i	O
+get	O
+a	O
+martini	B-Dish
+in	O
+faneuil	B-Location
+hall	I-Location
+square	I-Location
+after	B-Hours
+1	I-Hours
+am	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+a	O
+meal	O
+in	O
+under	B-Amenity
+5	I-Amenity
+minutes	I-Amenity
+
+where	O
+can	O
+i	O
+get	O
+a	O
+milkshake	B-Dish
+at	O
+2	B-Hours
+am	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+a	O
+mojito	B-Dish
+nearby	B-Location
+that	O
+is	O
+not	B-Price
+too	I-Price
+expensive	I-Price
+
+where	O
+can	O
+i	O
+get	O
+a	O
+pizza	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+a	O
+pizza	B-Dish
+with	I-Dish
+anchovies	I-Dish
+right	B-Hours
+now	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+a	O
+plate	O
+of	O
+fish	B-Dish
+and	I-Dish
+chips	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+a	O
+pot	B-Dish
+pie	I-Dish
+at	O
+
+where	O
+can	O
+i	O
+get	O
+a	O
+quesadillo	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+a	O
+reasonably	B-Price
+priced	O
+filet	B-Dish
+mignon	I-Dish
+within	B-Location
+5	I-Location
+miles	I-Location
+of	I-Location
+here	I-Location
+
+where	O
+can	O
+i	O
+get	O
+a	O
+salad	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+a	O
+sandwich	B-Dish
+in	O
+times	B-Location
+square	I-Location
+
+where	O
+can	O
+i	O
+get	O
+a	O
+sandwich	B-Dish
+the	O
+cheapest	B-Price
+
+where	O
+can	O
+i	O
+get	O
+a	O
+sandwiches	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+a	O
+sit	B-Amenity
+down	I-Amenity
+chinese	B-Cuisine
+meal	O
+
+where	O
+can	O
+i	O
+get	O
+a	O
+steak	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+a	O
+steak	B-Dish
+around	B-Location
+here	I-Location
+
+where	O
+can	O
+i	O
+get	O
+a	O
+steak	B-Dish
+nearby	B-Location
+
+where	O
+can	O
+i	O
+get	O
+a	O
+sub	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+a	O
+tofurky	B-Dish
+sandwich	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+a	O
+turkey	B-Dish
+sandwich	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+a	O
+veterans	B-Amenity
+discount	I-Amenity
+on	O
+veterans	O
+day	O
+
+where	O
+can	O
+i	O
+get	O
+afghan	B-Cuisine
+cuisine	O
+before	B-Hours
+9	I-Hours
+a	I-Hours
+m	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+african	B-Cuisine
+food	O
+
+where	O
+can	O
+i	O
+get	O
+african	B-Cuisine
+food	O
+at	O
+a	O
+really	B-Price
+good	I-Price
+price	O
+
+where	O
+can	O
+i	O
+get	O
+alot	O
+of	O
+food	O
+at	O
+this	O
+early	B-Hours
+hour	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+an	O
+apple	B-Dish
+cobbler	I-Dish
+for	O
+dessert	B-Location
+near	I-Location
+here	I-Location
+
+where	O
+can	O
+i	O
+get	O
+an	O
+averaged	B-Price
+priced	O
+meal	O
+after	B-Hours
+2	I-Hours
+am	I-Hours
+within	B-Location
+five	I-Location
+miles	I-Location
+from	O
+here	O
+
+where	O
+can	O
+i	O
+get	O
+an	O
+espresso	B-Dish
+on	O
+10	B-Location
+th	I-Location
+street	I-Location
+before	B-Hours
+9	I-Hours
+am	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+appetizers	B-Dish
+within	B-Location
+a	I-Location
+reasonable	I-Location
+distance	I-Location
+
+where	O
+can	O
+i	O
+get	O
+authentic	B-Cuisine
+mexican	I-Cuisine
+food	O
+
+where	O
+can	O
+i	O
+get	O
+bagel	B-Dish
+in	O
+an	O
+outdoor	B-Amenity
+atmosphere	I-Amenity
+
+where	O
+can	O
+i	O
+get	O
+barbecue	B-Cuisine
+with	O
+non	B-Amenity
+smoking	I-Amenity
+area	I-Amenity
+
+where	O
+can	O
+i	O
+get	O
+bbq	B-Cuisine
+for	O
+lunch	B-Hours
+on	O
+swan	B-Location
+street	I-Location
+
+where	O
+can	O
+i	O
+get	O
+bean	B-Dish
+soup	I-Dish
+in	O
+a	O
+restaurant	O
+thats	O
+open	B-Hours
+until	I-Hours
+11	I-Hours
+at	I-Hours
+night	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+bean	B-Dish
+soup	I-Dish
+in	O
+the	O
+morning	B-Hours
+at	O
+a	O
+reasonable	B-Price
+price	O
+
+where	O
+can	O
+i	O
+get	O
+belgian	B-Dish
+waffles	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+bi	B-Dish
+bim	I-Dish
+bap	I-Dish
+in	B-Location
+this	I-Location
+city	I-Location
+
+where	O
+can	O
+i	O
+get	O
+breakfast	B-Dish
+links	I-Dish
+and	O
+bacon	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+breakfast	B-Hours
+nearby	B-Location
+that	O
+serves	O
+basil	B-Dish
+dishes	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+burgers	B-Dish
+big	B-Amenity
+portions	I-Amenity
+and	O
+business	B-Amenity
+dining	I-Amenity
+
+where	O
+can	O
+i	O
+get	O
+burmese	B-Cuisine
+food	O
+in	O
+beacon	B-Location
+hill	I-Location
+thats	O
+not	B-Price
+expensive	I-Price
+
+where	O
+can	O
+i	O
+get	O
+californian	B-Cuisine
+cuisine	O
+at	O
+7	B-Hours
+am	I-Hours
+for	O
+an	O
+amazing	B-Price
+price	O
+
+where	O
+can	O
+i	O
+get	O
+carry	B-Amenity
+out	I-Amenity
+chinese	B-Cuisine
+food	O
+in	O
+glen	B-Location
+cove	I-Location
+new	I-Location
+york	I-Location
+
+where	O
+can	O
+i	O
+get	O
+carry	B-Amenity
+out	I-Amenity
+thai	B-Cuisine
+food	O
+
+where	O
+can	O
+i	O
+get	O
+catfish	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+cheap	B-Price
+fries	B-Dish
+at	O
+2	B-Hours
+am	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+cheap	B-Price
+halal	B-Cuisine
+on	O
+summer	B-Location
+street	I-Location
+
+where	O
+can	O
+i	O
+get	O
+cheap	B-Price
+hamburgers	B-Dish
+and	O
+fries	B-Dish
+within	B-Location
+1	I-Location
+mile	I-Location
+
+where	O
+can	O
+i	O
+get	O
+cheap	B-Price
+kosher	B-Cuisine
+food	O
+
+where	O
+can	O
+i	O
+get	O
+cheap	B-Price
+margaritas	B-Dish
+nearby	B-Location
+
+where	O
+can	O
+i	O
+get	O
+cheap	B-Price
+pizza	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+cheap	B-Price
+sake	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+chinese	B-Cuisine
+food	O
+
+where	O
+can	O
+i	O
+get	O
+chinese	B-Cuisine
+food	O
+around	B-Location
+here	I-Location
+
+where	O
+can	O
+i	O
+get	O
+chinese	B-Cuisine
+food	O
+within	B-Location
+four	I-Location
+miles	I-Location
+that	O
+is	O
+open	B-Hours
+late	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+chinese	B-Cuisine
+takeout	B-Amenity
+
+where	O
+can	O
+i	O
+get	O
+clam	B-Dish
+chowder	I-Dish
+that	O
+has	O
+a	O
+great	O
+beer	B-Amenity
+selection	I-Amenity
+
+where	O
+can	O
+i	O
+get	O
+crab	B-Dish
+for	O
+a	O
+good	B-Price
+price	O
+at	B-Hours
+1	I-Hours
+pm	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+crust	B-Dish
+after	B-Hours
+10	I-Hours
+pm	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+cuban	B-Cuisine
+food	O
+at	O
+a	O
+low	B-Price
+price	O
+
+where	O
+can	O
+i	O
+get	O
+curley	B-Dish
+fries	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+decently	B-Price
+priced	O
+teriyaki	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+dessert	B-Cuisine
+and	O
+eat	B-Amenity
+it	I-Amenity
+outdoors	I-Amenity
+
+where	O
+can	O
+i	O
+get	O
+dim	B-Dish
+sum	I-Dish
+within	B-Location
+5	I-Location
+minutes	I-Location
+of	I-Location
+my	I-Location
+location	I-Location
+and	O
+smoke	B-Amenity
+indoors	I-Amenity
+
+where	O
+can	O
+i	O
+get	O
+dinner	B-Hours
+for	O
+ten	B-Price
+dollars	I-Price
+or	I-Price
+less	I-Price
+tonight	B-Hours
+
+where	O
+can	O
+i	O
+get	O
+eggs	B-Dish
+nearby	B-Location
+
+where	O
+can	O
+i	O
+get	O
+english	B-Cuisine
+food	O
+before	B-Hours
+9	I-Hours
+am	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+fantastic	B-Rating
+brisket	B-Dish
+at	O
+1	B-Hours
+pm	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+fast	B-Cuisine
+food	I-Cuisine
+in	O
+my	B-Location
+area	I-Location
+
+where	O
+can	O
+i	O
+get	O
+fast	B-Amenity
+reasonably	B-Price
+priced	O
+food	O
+this	B-Hours
+late	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+fillet	B-Dish
+of	I-Dish
+sole	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+fin	B-Amenity
+dining	I-Amenity
+and	O
+moroccan	B-Cuisine
+food	O
+at	B-Hours
+10	I-Hours
+am	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+fondue	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+food	O
+
+where	O
+can	O
+i	O
+get	O
+food	O
+after	B-Hours
+11	I-Hours
+pm	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+food	O
+along	B-Location
+the	I-Location
+way	I-Location
+in	O
+the	O
+afternoon	B-Hours
+
+where	O
+can	O
+i	O
+get	O
+fried	B-Dish
+chicken	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+friend	B-Dish
+chicken	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+fries	B-Dish
+at	O
+a	O
+prix	B-Cuisine
+ffixe	I-Cuisine
+menus	O
+
+where	O
+can	O
+i	O
+get	O
+good	B-Rating
+chinese	B-Cuisine
+take	B-Amenity
+out	I-Amenity
+
+where	O
+can	O
+i	O
+get	O
+good	B-Rating
+doughnuts	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+good	B-Rating
+food	O
+and	O
+a	O
+wi	B-Amenity
+fi	I-Amenity
+connection	I-Amenity
+
+where	O
+can	O
+i	O
+get	O
+good	B-Rating
+thai	B-Cuisine
+food	O
+in	B-Location
+my	I-Location
+area	I-Location
+
+where	O
+can	O
+i	O
+get	O
+greek	B-Cuisine
+food	O
+in	B-Location
+my	I-Location
+area	I-Location
+
+where	O
+can	O
+i	O
+get	O
+greek	B-Cuisine
+food	O
+late	B-Hours
+night	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+greek	B-Cuisine
+food	O
+within	B-Location
+5	I-Location
+minutes	I-Location
+of	I-Location
+here	O
+at	O
+10	B-Hours
+pm	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+halibit	B-Dish
+within	B-Location
+4	I-Location
+miles	I-Location
+
+where	O
+can	O
+i	O
+get	O
+halinut	B-Dish
+at	O
+a	O
+reasonable	B-Price
+prrice	O
+
+where	O
+can	O
+i	O
+get	O
+ice	B-Dish
+cream	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+ice	B-Dish
+cream	I-Dish
+in	O
+toledo	B-Location
+oh	I-Location
+
+where	O
+can	O
+i	O
+get	O
+indian	B-Cuisine
+food	O
+
+where	O
+can	O
+i	O
+get	O
+italian	B-Cuisine
+food	O
+
+where	O
+can	O
+i	O
+get	O
+jamaican	B-Cuisine
+food	O
+in	O
+this	O
+general	B-Location
+area	I-Location
+
+where	O
+can	O
+i	O
+get	O
+japanese	B-Cuisine
+and	O
+chinese	B-Cuisine
+food	O
+
+where	O
+can	O
+i	O
+get	O
+japanese	B-Cuisine
+food	O
+
+where	O
+can	O
+i	O
+get	O
+korean	B-Cuisine
+food	O
+with	O
+a	O
+terrific	B-Amenity
+wine	I-Amenity
+list	I-Amenity
+
+where	O
+can	O
+i	O
+get	O
+korean	B-Cuisine
+take	B-Amenity
+out	I-Amenity
+in	O
+chicago	B-Location
+
+where	O
+can	O
+i	O
+get	O
+lasagna	B-Dish
+before	B-Hours
+12	I-Hours
+am	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+lobster	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+lobster	B-Dish
+thermador	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+lunch	B-Amenity
+and	O
+a	O
+drink	B-Amenity
+
+where	O
+can	O
+i	O
+get	O
+lunch	B-Hours
+for	O
+under	B-Price
+five	I-Price
+dollars	I-Price
+
+where	O
+can	O
+i	O
+get	O
+malaysian	B-Cuisine
+take	B-Amenity
+out	I-Amenity
+
+where	O
+can	O
+i	O
+get	O
+mexican	B-Cuisine
+food	O
+
+where	O
+can	O
+i	O
+get	O
+mexican	B-Cuisine
+food	O
+with	O
+fair	B-Price
+prices	O
+and	O
+a	O
+good	B-Rating
+rating	O
+
+where	O
+can	O
+i	O
+get	O
+mussels	B-Dish
+and	O
+a	O
+good	B-Amenity
+selection	I-Amenity
+of	O
+beer	B-Cuisine
+
+where	O
+can	O
+i	O
+get	O
+nice	B-Rating
+service	I-Rating
+and	O
+some	O
+good	B-Rating
+bbq	B-Dish
+sauce	I-Dish
+at	O
+a	O
+terrific	B-Price
+price	O
+
+where	O
+can	O
+i	O
+get	O
+nicose	B-Dish
+salad	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+nopales	B-Dish
+enchillades	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+not	B-Price
+so	I-Price
+cheap	I-Price
+chocolate	B-Dish
+cake	I-Dish
+and	O
+be	O
+able	O
+to	O
+byob	B-Amenity
+
+where	O
+can	O
+i	O
+get	O
+onion	B-Dish
+rings	I-Dish
+after	B-Hours
+1	I-Hours
+am	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+pad	B-Dish
+thai	I-Dish
+for	O
+lunch	B-Hours
+
+where	O
+can	O
+i	O
+get	O
+pad	B-Dish
+thai	I-Dish
+within	B-Location
+a	I-Location
+five	I-Location
+mile	I-Location
+radius	I-Location
+
+where	O
+can	O
+i	O
+get	O
+paella	B-Dish
+at	O
+11	B-Hours
+am	I-Hours
+at	O
+a	O
+good	B-Price
+price	O
+
+where	O
+can	O
+i	O
+get	O
+pancakes	B-Dish
+at	O
+4	B-Hours
+am	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+peanut	B-Amenity
+allergy	I-Amenity
+friendly	I-Amenity
+foods	O
+
+where	O
+can	O
+i	O
+get	O
+perfect	B-Rating
+service	O
+with	O
+reasonably	B-Price
+priced	O
+food	O
+
+where	O
+can	O
+i	O
+get	O
+pita	B-Dish
+bread	I-Dish
+late	B-Hours
+at	I-Hours
+night	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+pizza	B-Dish
+at	O
+midnight	B-Hours
+
+where	O
+can	O
+i	O
+get	O
+pizza	B-Dish
+from	O
+
+where	O
+can	O
+i	O
+get	O
+portuguese	B-Cuisine
+food	O
+at	O
+a	O
+real	B-Location
+good	I-Location
+price	I-Location
+
+where	O
+can	O
+i	O
+get	O
+portuguese	B-Cuisine
+food	O
+at	O
+reasonable	B-Price
+prices	O
+
+where	O
+can	O
+i	O
+get	O
+rather	B-Price
+high	I-Price
+priced	O
+vietnamese	B-Cuisine
+food	O
+before	B-Hours
+noon	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+real	B-Cuisine
+mexican	I-Cuisine
+food	O
+
+where	O
+can	O
+i	O
+get	O
+really	B-Rating
+good	I-Rating
+drinks	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+sake	B-Dish
+cheap	B-Price
+
+where	O
+can	O
+i	O
+get	O
+salmon	B-Dish
+for	O
+lunch	B-Hours
+at	O
+a	O
+decent	B-Price
+price	O
+
+where	O
+can	O
+i	O
+get	O
+sashimi	B-Dish
+in	B-Location
+this	I-Location
+neighborhood	I-Location
+
+where	O
+can	O
+i	O
+get	O
+sashimi	B-Dish
+without	B-Location
+traveling	I-Location
+more	I-Location
+than	I-Location
+5	I-Location
+miles	I-Location
+
+where	O
+can	O
+i	O
+get	O
+senegalise	B-Cuisine
+food	O
+
+where	O
+can	O
+i	O
+get	O
+some	O
+bagel	B-Dish
+and	I-Dish
+cream	I-Dish
+cheese	I-Dish
+close	B-Location
+by	I-Location
+
+where	O
+can	O
+i	O
+get	O
+some	O
+broccoli	B-Dish
+and	I-Dish
+cheese	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+burritos	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+catfish	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+cheap	B-Price
+good	B-Rating
+pizza	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+cheap	B-Price
+sake	B-Cuisine
+
+where	O
+can	O
+i	O
+get	O
+some	O
+cheeseburgres	B-Dish
+and	I-Dish
+fries	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+chicken	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+chicken	B-Dish
+breast	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+chicken	B-Dish
+fried	I-Dish
+rice	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+chinese	B-Cuisine
+food	O
+downtown	B-Location
+
+where	O
+can	O
+i	O
+get	O
+some	O
+chocolate	B-Dish
+cake	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+coffee	B-Dish
+and	O
+a	O
+bagel	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+collard	B-Dish
+greens	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+corn	B-Dish
+dogs	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+crab	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+crab	B-Dish
+legs	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+enchiladas	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+fajitas	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+fettuccine	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+food	O
+
+where	O
+can	O
+i	O
+get	O
+some	O
+french	B-Dish
+toast	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+fried	B-Dish
+chicken	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+fries	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+good	B-Rating
+english	B-Cuisine
+food	O
+that	O
+doesnt	B-Amenity
+allow	I-Amenity
+smoking	I-Amenity
+
+where	O
+can	O
+i	O
+get	O
+some	O
+good	B-Rating
+home	B-Dish
+made	I-Dish
+soup	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+good	B-Rating
+indian	B-Cuisine
+food	O
+
+where	O
+can	O
+i	O
+get	O
+some	O
+good	B-Rating
+rice	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+gumbo	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+hot	B-Dish
+dogs	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+hot	B-Dish
+wings	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+hush	B-Dish
+puppies	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+japanese	B-Cuisine
+food	O
+
+where	O
+can	O
+i	O
+get	O
+some	O
+lasagna	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+lobster	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+meatloaf	B-Dish
+for	O
+a	O
+fairly	B-Price
+inexpensive	I-Price
+price	O
+
+where	O
+can	O
+i	O
+get	O
+some	O
+mexican	B-Cuisine
+food	O
+
+where	O
+can	O
+i	O
+get	O
+some	O
+nachos	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+octopus	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+okra	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+pancakes	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+pasta	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+pizza	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+quesadillas	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+red	B-Dish
+velvet	I-Dish
+cake	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+ribs	B-Dish
+in	O
+the	O
+next	B-Location
+couple	I-Location
+miles	I-Location
+
+where	O
+can	O
+i	O
+get	O
+some	O
+scrambled	B-Dish
+eggs	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+soup	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+squid	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+sushi	B-Dish
+in	O
+the	O
+area	B-Location
+
+where	O
+can	O
+i	O
+get	O
+some	O
+sushi	B-Dish
+nearby	B-Location
+
+where	O
+can	O
+i	O
+get	O
+some	O
+taco	B-Dish
+salad	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+tacos	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+tacos	B-Dish
+and	O
+margaritas	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+tapas	B-Dish
+where	O
+the	O
+celebs	O
+go	O
+on	O
+forbes	B-Location
+road	I-Location
+
+where	O
+can	O
+i	O
+get	O
+some	O
+tostadas	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+vegetarian	B-Cuisine
+chili	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+some	O
+vietnamese	B-Cuisine
+food	O
+downtown	B-Location
+
+where	O
+can	O
+i	O
+get	O
+something	O
+to	O
+eat	O
+
+where	O
+can	O
+i	O
+get	O
+something	O
+to	O
+eat	O
+fast	B-Cuisine
+
+where	O
+can	O
+i	O
+get	O
+sone	O
+sunnyside	B-Dish
+up	I-Dish
+eggs	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+spaghetti	B-Dish
+and	I-Dish
+meatballs	I-Dish
+like	B-Rating
+grandma	I-Rating
+used	I-Rating
+to	I-Rating
+make	I-Rating
+
+where	O
+can	O
+i	O
+get	O
+steak	B-Dish
+and	I-Dish
+eggs	I-Dish
+for	O
+breakfast	O
+
+where	O
+can	O
+i	O
+get	O
+sushi	B-Cuisine
+7	B-Hours
+days	I-Hours
+a	I-Hours
+week	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+sushi	B-Cuisine
+at	O
+a	O
+decent	B-Price
+price	O
+
+where	O
+can	O
+i	O
+get	O
+sushi	B-Dish
+at	B-Hours
+midnight	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+sushi	B-Dish
+in	O
+san	B-Location
+francisco	I-Location
+
+where	O
+can	O
+i	O
+get	O
+sushi	B-Dish
+takeout	B-Amenity
+around	B-Location
+here	I-Location
+
+where	O
+can	O
+i	O
+get	O
+sushi	B-Dish
+that	O
+isnt	B-Price
+real	I-Price
+pricey	O
+
+where	O
+can	O
+i	O
+get	O
+tacos	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+takeout	B-Amenity
+
+where	O
+can	O
+i	O
+get	O
+tapas	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+tea	B-Dish
+and	O
+dine	B-Amenity
+at	I-Amenity
+a	I-Amenity
+bar	I-Amenity
+before	B-Hours
+11	I-Hours
+am	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+thai	B-Cuisine
+food	O
+after	B-Hours
+midnight	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+the	O
+best	B-Rating
+cake	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+the	O
+best	B-Rating
+cheeseburger	B-Dish
+in	B-Location
+town	I-Location
+
+where	O
+can	O
+i	O
+get	O
+the	O
+best	B-Rating
+cheesecake	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+the	O
+best	B-Rating
+hot	B-Dish
+chocolate	I-Dish
+within	O
+a	O
+5	B-Location
+mile	I-Location
+radius	I-Location
+
+where	O
+can	O
+i	O
+get	O
+the	O
+best	B-Cuisine
+italian	I-Cuisine
+food	O
+
+where	O
+can	O
+i	O
+get	O
+the	O
+best	B-Rating
+local	B-Location
+barbeque	B-Cuisine
+
+where	O
+can	O
+i	O
+get	O
+the	O
+cheapest	B-Price
+milkshake	B-Dish
+
+where	O
+can	O
+i	O
+get	O
+the	O
+cheapest	B-Price
+pizza	B-Dish
+with	I-Dish
+anchovies	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+the	O
+highest	B-Rating
+rated	I-Rating
+burger	B-Dish
+within	B-Location
+ten	I-Location
+miles	I-Location
+
+where	O
+can	O
+i	O
+get	O
+the	O
+largest	B-Dish
+coffee	I-Dish
+
+where	O
+can	O
+i	O
+get	O
+toppings	B-Dish
+before	B-Hours
+10	I-Hours
+am	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+vegan	B-Cuisine
+food	O
+at	O
+a	O
+reasonable	B-Price
+price	O
+
+where	B-Location
+can	O
+i	O
+get	O
+vegetarian	B-Cuisine
+food	O
+in	O
+inman	B-Location
+square	I-Location
+before	B-Hours
+8	I-Hours
+am	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+veggies	B-Cuisine
+near	B-Location
+here	I-Location
+7	B-Hours
+days	I-Hours
+a	I-Hours
+week	I-Hours
+
+where	O
+can	O
+i	O
+get	O
+wine	B-Dish
+near	B-Location
+me	O
+
+where	O
+can	O
+i	O
+go	O
+around	B-Location
+here	I-Location
+thats	O
+reasonably	B-Price
+priced	O
+at	O
+6	B-Hours
+pm	I-Hours
+
+where	O
+can	O
+i	O
+go	O
+before	B-Hours
+noon	I-Hours
+to	O
+eat	O
+that	O
+is	O
+relatively	B-Price
+cheap	I-Price
+
+where	O
+can	O
+i	O
+go	O
+eat	O
+that	O
+offers	O
+televised	B-Amenity
+live	I-Amenity
+sports	I-Amenity
+
+where	O
+can	O
+i	O
+go	O
+for	O
+a	O
+few	B-Price
+dollars	I-Price
+
+where	O
+can	O
+i	O
+go	O
+for	O
+a	O
+great	B-Rating
+burrito	B-Dish
+and	O
+a	O
+margarita	B-Dish
+
+where	O
+can	O
+i	O
+go	O
+for	O
+breakfast	B-Hours
+
+where	O
+can	O
+i	O
+go	O
+for	O
+brisket	B-Dish
+near	B-Location
+here	I-Location
+
+where	O
+can	O
+i	O
+go	O
+for	O
+sushi	B-Dish
+
+where	O
+can	O
+i	O
+go	O
+in	O
+the	O
+evening	B-Hours
+for	O
+a	O
+nicely	B-Price
+priced	O
+sauce	B-Dish
+
+where	O
+can	O
+i	O
+go	O
+that	O
+has	O
+easy	B-Amenity
+parking	I-Amenity
+and	O
+soup	B-Dish
+
+where	O
+can	O
+i	O
+go	O
+that	O
+serves	O
+mostly	O
+organic	B-Cuisine
+foods	O
+
+where	O
+can	O
+i	O
+go	O
+to	O
+eat	O
+to	O
+find	O
+the	O
+best	B-Rating
+service	B-Amenity
+and	O
+atmosphere	B-Amenity
+
+where	O
+can	O
+i	O
+go	O
+to	O
+eat	O
+to	O
+impress	O
+on	O
+a	O
+first	O
+date	O
+
+where	O
+can	O
+i	O
+go	O
+to	O
+find	O
+a	O
+really	B-Rating
+good	I-Rating
+hamburger	B-Dish
+
+where	O
+can	O
+i	O
+go	O
+to	O
+get	O
+a	O
+pizza	B-Dish
+
+where	O
+can	O
+i	O
+go	O
+to	O
+get	O
+some	O
+chicago	B-Cuisine
+style	B-Dish
+pizza	I-Dish
+
+where	O
+can	O
+i	O
+go	O
+to	O
+have	O
+a	O
+nice	B-Amenity
+dinner	B-Hours
+for	O
+two	O
+that	O
+serves	O
+halal	B-Cuisine
+food	O
+
+where	O
+can	O
+i	O
+go	O
+to	O
+sample	O
+a	O
+lot	B-Amenity
+of	I-Amenity
+beer	I-Amenity
+
+where	O
+can	O
+i	O
+grab	O
+a	O
+bit	O
+al	B-Amenity
+fresco	I-Amenity
+
+where	O
+can	O
+i	O
+grab	O
+a	O
+few	O
+appetizers	B-Dish
+right	B-Hours
+this	I-Hours
+minute	I-Hours
+
+where	O
+can	O
+i	O
+grab	O
+a	O
+sandwich	B-Dish
+before	O
+my	O
+flight	O
+
+where	O
+can	O
+i	O
+grab	O
+some	O
+fast	B-Cuisine
+food	I-Cuisine
+
+where	O
+can	O
+i	O
+have	O
+a	O
+business	O
+dinner	O
+in	O
+chinatown	B-Location
+
+where	O
+can	O
+i	O
+have	O
+a	O
+business	B-Amenity
+dinner	B-Hours
+with	O
+good	B-Amenity
+sized	I-Amenity
+portions	I-Amenity
+
+where	O
+can	O
+i	O
+have	O
+a	O
+good	B-Rating
+steak	B-Dish
+and	O
+glass	O
+of	O
+cabernet	B-Dish
+
+where	O
+can	O
+i	O
+have	O
+a	O
+meal	B-Amenity
+and	I-Amenity
+a	I-Amenity
+drink	I-Amenity
+at	O
+the	O
+same	O
+time	O
+
+where	O
+can	O
+i	O
+have	O
+outdoor	B-Amenity
+dining	I-Amenity
+
+where	O
+can	O
+i	O
+host	B-Amenity
+a	I-Amenity
+birthday	I-Amenity
+dinner	I-Amenity
+
+where	O
+can	O
+i	O
+make	O
+reservations	B-Amenity
+for	O
+dinner	B-Hours
+
+where	O
+can	O
+i	O
+order	B-Amenity
+a	O
+pizza	B-Dish
+
+where	O
+can	O
+i	O
+order	O
+a	O
+whole	B-Dish
+pie	I-Dish
+for	O
+carry	B-Amenity
+out	I-Amenity
+
+where	O
+can	O
+i	O
+rent	O
+a	O
+room	O
+near	O
+a	O
+nice	B-Rating
+italian	B-Cuisine
+restaurant	O
+
+where	O
+can	O
+i	O
+scope	B-Amenity
+on	I-Amenity
+celebrities	I-Amenity
+and	O
+enjoy	O
+an	O
+egg	B-Dish
+roll	I-Dish
+in	O
+holbrook	B-Location
+
+where	O
+can	O
+i	O
+sit	B-Amenity
+outside	I-Amenity
+downtown	B-Location
+an	O
+eat	O
+a	O
+tuna	B-Dish
+roll	I-Dish
+
+where	O
+can	O
+i	O
+smoke	B-Amenity
+while	O
+i	O
+am	O
+having	O
+dinner	B-Cuisine
+
+where	O
+can	O
+i	O
+take	O
+a	O
+date	B-Amenity
+on	O
+lincoln	B-Location
+street	I-Location
+for	O
+sake	B-Dish
+
+where	O
+can	O
+i	O
+take	O
+a	O
+nice	B-Amenity
+date	I-Amenity
+
+where	O
+can	O
+i	O
+take	B-Amenity
+my	I-Amenity
+children	I-Amenity
+for	O
+chinese	B-Cuisine
+food	O
+
+where	O
+can	O
+i	O
+take	O
+my	O
+children	B-Amenity
+for	O
+mexican	B-Cuisine
+food	O
+
+where	O
+can	O
+i	O
+take	O
+my	O
+date	O
+downtown	B-Location
+
+where	O
+can	O
+i	O
+take	O
+my	O
+family	B-Amenity
+nearby	B-Location
+
+where	O
+can	O
+i	O
+take	O
+my	O
+girlfriend	O
+for	O
+a	O
+romantic	B-Amenity
+dinner	O
+
+where	O
+can	O
+i	O
+take	O
+my	O
+kids	B-Amenity
+for	O
+dinner	O
+
+where	O
+can	O
+i	O
+take	O
+the	O
+kids	B-Amenity
+for	O
+dinner	B-Hours
+
+where	O
+can	O
+i	O
+watch	B-Amenity
+the	I-Amenity
+ball	I-Amenity
+game	I-Amenity
+and	O
+drink	O
+a	O
+beer	B-Dish
+
+where	O
+can	O
+my	O
+husband	O
+and	O
+i	O
+go	O
+for	O
+a	O
+formal	B-Amenity
+dining	I-Amenity
+experience	O
+
+where	O
+can	O
+we	O
+eat	O
+that	O
+we	O
+can	O
+take	O
+the	O
+kids	B-Amenity
+
+where	O
+can	O
+we	O
+get	O
+good	B-Rating
+mexican	B-Cuisine
+
+where	O
+can	O
+we	O
+get	O
+sushi	B-Cuisine
+
+where	O
+can	O
+we	O
+go	O
+and	O
+get	O
+a	O
+pizza	B-Dish
+
+where	O
+can	O
+we	O
+go	O
+around	B-Location
+here	I-Location
+to	O
+get	O
+a	O
+bite	O
+to	O
+eat	O
+
+where	O
+could	O
+i	O
+find	O
+a	O
+place	O
+thats	O
+kinda	B-Price
+cheap	I-Price
+
+where	O
+could	O
+i	O
+find	O
+a	O
+steamed	B-Dish
+burger	I-Dish
+
+where	O
+could	O
+i	O
+find	O
+good	B-Rating
+spanish	B-Cuisine
+cuisine	O
+before	B-Hours
+10	I-Hours
+am	I-Hours
+
+where	O
+could	O
+i	O
+find	O
+ribs	B-Dish
+and	O
+a	O
+good	B-Amenity
+beer	I-Amenity
+list	I-Amenity
+on	O
+the	O
+way	B-Location
+
+where	O
+could	O
+i	O
+find	O
+some	O
+late	B-Hours
+night	I-Hours
+noodles	B-Dish
+
+where	O
+could	O
+i	O
+find	O
+some	O
+pizza	B-Dish
+by	O
+the	O
+slice	B-Dish
+right	B-Hours
+now	I-Hours
+
+where	O
+could	O
+i	O
+find	O
+some	O
+well	B-Price
+priced	O
+sauce	B-Dish
+this	B-Hours
+evening	I-Hours
+
+where	O
+could	O
+i	O
+get	O
+a	O
+group	B-Amenity
+sized	I-Amenity
+omelet	B-Dish
+
+where	O
+could	O
+i	O
+get	O
+a	O
+well	B-Price
+priced	O
+steak	B-Dish
+
+where	O
+could	O
+i	O
+get	O
+some	O
+tapas	B-Cuisine
+before	B-Hours
+8	I-Hours
+am	I-Hours
+
+where	O
+could	O
+i	O
+get	O
+some	O
+very	O
+knowledgeable	B-Amenity
+service	I-Amenity
+about	O
+bbq	B-Cuisine
+
+where	O
+do	O
+i	O
+park	O
+for	O
+mcalisters	B-Restaurant_Name
+
+where	O
+do	O
+i	O
+park	O
+for	O
+the	O
+atomic	B-Restaurant_Name
+cafe	I-Restaurant_Name
+
+where	O
+do	O
+the	O
+locals	O
+pad	B-Cuisine
+thai	I-Cuisine
+restaurants	O
+within	B-Location
+five	I-Location
+miles	I-Location
+of	O
+my	O
+location	O
+
+where	O
+do	O
+you	O
+recommend	B-Rating
+i	O
+eat	O
+
+where	O
+do	O
+you	O
+suggest	O
+i	O
+go	O
+eat	O
+right	B-Hours
+now	I-Hours
+
+where	O
+do	O
+you	O
+think	O
+my	O
+kids	B-Amenity
+want	O
+to	O
+eat	O
+
+where	O
+downtown	B-Location
+could	O
+i	O
+find	O
+a	O
+reasonably	B-Price
+prices	O
+japanese	B-Cuisine
+restaurant	O
+
+where	O
+i	O
+can	O
+get	O
+a	O
+burger	B-Dish
+and	I-Dish
+fries	I-Dish
+
+where	O
+in	O
+ashland	B-Location
+can	O
+i	O
+get	O
+tea	B-Cuisine
+late	B-Hours
+at	I-Hours
+night	I-Hours
+
+where	O
+in	O
+brazil	B-Location
+is	O
+wendys	B-Restaurant_Name
+located	O
+
+where	O
+in	O
+brickstone	B-Location
+square	I-Location
+can	O
+i	O
+get	O
+lamb	B-Dish
+for	O
+lunch	B-Hours
+
+where	O
+in	O
+holbrook	B-Location
+could	O
+i	O
+get	O
+some	O
+onion	B-Dish
+rings	I-Dish
+tonight	B-Hours
+
+where	O
+in	O
+sherborn	B-Location
+is	O
+vegetarian	B-Cuisine
+fine	B-Amenity
+dining	I-Amenity
+
+where	O
+in	B-Location
+the	I-Location
+area	I-Location
+can	O
+i	O
+get	O
+a	O
+greek	B-Dish
+style	I-Dish
+pizza	I-Dish
+
+where	O
+in	O
+west	B-Location
+center	I-Location
+st	I-Location
+is	O
+the	O
+hot	B-Restaurant_Name
+off	I-Restaurant_Name
+the	I-Restaurant_Name
+press	I-Restaurant_Name
+restaurant	O
+located	O
+
+where	O
+is	O
+a	O
+3	B-Rating
+star	I-Rating
+restaurant	O
+that	O
+serves	B-Amenity
+alcoholic	I-Amenity
+drinks	I-Amenity
+
+where	O
+is	O
+a	O
+bbq	B-Cuisine
+restaurant	O
+with	O
+outdoor	B-Amenity
+seating	I-Amenity
+
+where	O
+is	O
+a	O
+big	B-Restaurant_Name
+boy	I-Restaurant_Name
+
+where	O
+is	O
+a	O
+british	B-Cuisine
+pub	I-Cuisine
+
+where	O
+is	O
+a	O
+buffet	B-Cuisine
+at	O
+
+where	O
+is	O
+a	O
+burger	B-Cuisine
+restaurant	O
+near	O
+sacramento	B-Location
+ca	I-Location
+with	O
+plenty	B-Amenity
+of	I-Amenity
+parking	I-Amenity
+
+where	O
+is	O
+a	O
+caribbean	B-Cuisine
+restaurant	O
+within	B-Location
+5	I-Location
+miles	I-Location
+
+where	O
+is	O
+a	O
+cheap	B-Price
+belgian	B-Cuisine
+restaurant	O
+on	O
+the	O
+north	B-Location
+end	I-Location
+
+where	O
+is	O
+a	O
+cheap	B-Price
+fast	B-Cuisine
+food	I-Cuisine
+place	O
+here	B-Location
+
+where	O
+is	O
+a	O
+cheap	B-Price
+restaurant	O
+that	O
+is	O
+open	B-Hours
+at	I-Hours
+6	I-Hours
+pm	I-Hours
+
+where	O
+is	O
+a	O
+cheap	B-Price
+thai	B-Cuisine
+restaurant	O
+thats	O
+at	O
+least	O
+3	B-Rating
+stars	I-Rating
+
+where	O
+is	O
+a	O
+close	B-Location
+by	I-Location
+dennys	B-Restaurant_Name
+
+where	O
+is	O
+a	O
+close	B-Location
+by	I-Location
+fast	B-Cuisine
+food	I-Cuisine
+restaurant	O
+that	O
+serves	O
+hamburgers	B-Dish
+
+where	O
+is	O
+a	O
+cypriot	B-Cuisine
+cuisine	O
+place	O
+
+where	O
+is	O
+a	O
+diner	B-Cuisine
+
+where	O
+is	O
+a	O
+family	B-Amenity
+style	I-Amenity
+restaurant	O
+that	O
+has	O
+vegetables	B-Dish
+and	O
+is	O
+one	B-Location
+minute	I-Location
+away	I-Location
+
+where	O
+is	O
+a	O
+fast	B-Cuisine
+food	I-Cuisine
+resturant	O
+
+where	O
+is	O
+a	O
+good	B-Rating
+italian	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+a	O
+good	O
+mexican	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+a	O
+good	B-Rating
+mexican	B-Cuisine
+restaurant	O
+with	O
+a	O
+large	O
+vegetarian	B-Cuisine
+selection	O
+
+where	O
+is	O
+a	O
+good	B-Rating
+place	O
+for	O
+hummus	B-Dish
+
+where	O
+is	O
+a	O
+good	B-Rating
+place	O
+to	O
+eat	O
+for	O
+a	O
+business	B-Amenity
+meeting	I-Amenity
+
+where	O
+is	O
+a	O
+good	B-Rating
+place	O
+to	O
+eat	O
+nearby	B-Location
+
+where	O
+is	O
+a	O
+good	B-Rating
+place	O
+to	O
+eat	O
+nearby	B-Location
+that	O
+is	O
+open	B-Hours
+after	I-Hours
+2	I-Hours
+am	I-Hours
+
+where	O
+is	O
+a	O
+good	B-Rating
+place	B-Location
+to	O
+meet	O
+friends	B-Location
+for	O
+lunch	B-Cuisine
+today	B-Hours
+
+where	O
+is	O
+a	O
+good	B-Rating
+place	O
+to	O
+take	B-Amenity
+a	I-Amenity
+date	I-Amenity
+near	B-Location
+west	I-Location
+grove	I-Location
+street	I-Location
+
+where	O
+is	O
+a	O
+good	O
+place	O
+to	O
+take	O
+the	O
+kids	B-Amenity
+to	O
+eat	O
+
+where	O
+is	O
+a	O
+good	B-Rating
+restaurant	O
+i	O
+can	B-Amenity
+play	I-Amenity
+pool	I-Amenity
+at	I-Amenity
+
+where	O
+is	O
+a	O
+good	O
+romantic	B-Amenity
+pizza	B-Cuisine
+restaurant	O
+nearby	B-Location
+
+where	O
+is	O
+a	O
+good	B-Rating
+thai	B-Cuisine
+restaurant	O
+thats	O
+cheap	B-Price
+near	B-Location
+downtown	I-Location
+sf	I-Location
+
+where	O
+is	O
+a	O
+highly	B-Rating
+rated	I-Rating
+brunch	B-Hours
+served	O
+
+where	O
+is	O
+a	O
+historical	B-Amenity
+ruths	B-Restaurant_Name
+chris	I-Restaurant_Name
+steak	I-Restaurant_Name
+house	I-Restaurant_Name
+open	B-Hours
+now	I-Hours
+at	I-Hours
+3	I-Hours
+pm	I-Hours
+
+where	O
+is	O
+a	O
+johns	B-Restaurant_Name
+roast	I-Restaurant_Name
+beef	I-Restaurant_Name
+with	O
+good	B-Rating
+beer	B-Dish
+
+where	O
+is	O
+a	O
+kid	B-Amenity
+friendly	I-Amenity
+burger	B-Cuisine
+place	O
+
+where	O
+is	O
+a	O
+kid	B-Amenity
+friendly	I-Amenity
+restaurant	O
+that	O
+is	O
+open	B-Hours
+past	I-Hours
+10	I-Hours
+pm	I-Hours
+
+where	O
+is	O
+a	O
+kid	B-Amenity
+friendly	I-Amenity
+restaurant	O
+within	B-Location
+20	I-Location
+miles	I-Location
+
+where	O
+is	O
+a	O
+kids	B-Amenity
+place	O
+to	O
+eat	O
+near	B-Location
+me	I-Location
+
+where	O
+is	O
+a	O
+kosher	B-Cuisine
+restaurant	O
+with	O
+good	B-Rating
+service	O
+and	O
+offers	O
+a	O
+business	B-Amenity
+breakfast	B-Hours
+
+where	O
+is	O
+a	O
+mcdonalds	B-Restaurant_Name
+in	O
+dallas	B-Location
+tx	I-Location
+
+where	O
+is	O
+a	O
+mexican	B-Cuisine
+place	O
+that	O
+is	O
+across	B-Location
+the	I-Location
+river	I-Location
+
+where	O
+is	O
+a	O
+mexican	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+a	O
+nearby	B-Location
+high	B-Rating
+quality	I-Rating
+restaurant	O
+that	O
+offers	O
+duck	B-Dish
+on	O
+their	O
+menu	O
+
+where	O
+is	O
+a	O
+nearby	B-Location
+place	O
+to	O
+eat	O
+
+where	O
+is	O
+a	O
+nearby	B-Location
+sushi	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+a	O
+nice	B-Rating
+restaurant	O
+
+where	O
+is	O
+a	O
+non	B-Amenity
+smoking	I-Amenity
+vegetarian	B-Cuisine
+place	O
+
+where	O
+is	O
+a	O
+papa	B-Restaurant_Name
+johns	I-Restaurant_Name
+in	O
+portland	B-Location
+maine	I-Location
+
+where	O
+is	O
+a	O
+place	O
+i	O
+could	O
+take	B-Amenity
+a	I-Amenity
+date	I-Amenity
+to	O
+and	O
+get	O
+a	O
+serving	O
+of	O
+gelato	B-Dish
+
+where	O
+is	O
+a	O
+place	O
+to	O
+eat	O
+that	O
+has	O
+smoking	B-Amenity
+
+where	O
+is	O
+a	O
+place	O
+where	O
+i	O
+can	O
+eat	B-Amenity
+healthy	B-Cuisine
+
+where	O
+is	O
+a	O
+popular	B-Rating
+burrito	B-Dish
+place	O
+in	B-Location
+this	I-Location
+area	I-Location
+
+where	O
+is	O
+a	O
+reasonably	B-Price
+priced	O
+place	O
+to	O
+eat	O
+within	B-Location
+5	I-Location
+miles	I-Location
+that	O
+is	O
+open	B-Hours
+at	I-Hours
+3	I-Hours
+am	I-Hours
+
+where	O
+is	O
+a	O
+restaurant	O
+for	B-Amenity
+kids	I-Amenity
+
+where	O
+is	O
+a	O
+restaurant	O
+nearby	B-Location
+
+where	O
+is	O
+a	O
+restaurant	O
+that	O
+has	O
+a	O
+smoking	B-Amenity
+area	I-Amenity
+
+where	O
+is	O
+a	O
+restaurant	O
+that	O
+has	O
+a	O
+smoking	B-Amenity
+section	I-Amenity
+
+where	O
+is	O
+a	O
+restaurant	O
+that	O
+is	O
+open	B-Hours
+late	I-Hours
+
+where	O
+is	O
+a	O
+restaurant	O
+that	O
+is	O
+open	B-Hours
+until	I-Hours
+2	I-Hours
+am	I-Hours
+has	O
+a	O
+great	B-Amenity
+patio	I-Amenity
+and	O
+is	O
+within	B-Location
+10	I-Location
+miles	I-Location
+from	O
+me	O
+
+where	O
+is	O
+a	O
+restaurant	O
+that	O
+serves	O
+pizza	B-Dish
+and	O
+also	O
+has	O
+a	O
+salad	B-Amenity
+bar	I-Amenity
+
+where	O
+is	O
+a	O
+restaurant	O
+with	O
+great	B-Rating
+soup	B-Dish
+and	O
+easy	B-Amenity
+parking	I-Amenity
+
+where	O
+is	O
+a	O
+restaurant	O
+with	O
+happy	B-Amenity
+hour	I-Amenity
+
+where	O
+is	O
+a	O
+restaurant	O
+with	O
+out	B-Amenity
+door	I-Amenity
+seating	I-Amenity
+
+where	O
+is	O
+a	O
+restaurant	O
+with	O
+smoking	B-Amenity
+
+where	O
+is	O
+a	O
+restaurant	O
+with	O
+smoking	B-Amenity
+downtown	B-Location
+
+where	O
+is	O
+a	O
+sandwich	B-Cuisine
+shop	O
+
+where	O
+is	O
+a	O
+smoking	B-Amenity
+friendly	I-Amenity
+steakhouse	B-Cuisine
+
+where	O
+is	O
+a	O
+steakhouse	B-Cuisine
+in	O
+miami	B-Location
+florida	I-Location
+
+where	O
+is	O
+a	O
+subway	B-Restaurant_Name
+
+where	O
+is	O
+a	O
+sushi	B-Cuisine
+buffet	I-Cuisine
+
+where	O
+is	O
+a	O
+taco	B-Restaurant_Name
+bell	I-Restaurant_Name
+
+where	O
+is	O
+a	O
+terrific	B-Rating
+place	O
+to	O
+eat	O
+for	O
+lunch	B-Hours
+
+where	O
+is	O
+a	O
+vegan	B-Cuisine
+restaurant	O
+with	O
+decently	B-Amenity
+sized	I-Amenity
+portions	I-Amenity
+near	B-Location
+beverly	I-Location
+
+where	O
+is	O
+a	O
+vietnamese	B-Cuisine
+place	O
+with	O
+dogs	B-Amenity
+allowed	I-Amenity
+
+where	O
+is	O
+a	O
+white	B-Restaurant_Name
+castle	I-Restaurant_Name
+
+where	O
+is	O
+adamos	B-Restaurant_Name
+italian	I-Restaurant_Name
+restaurant	I-Restaurant_Name
+
+where	O
+is	O
+an	O
+expensive	O
+american	B-Cuisine
+restaurant	O
+on	O
+winter	O
+street	B-Location
+
+where	O
+is	O
+an	O
+expensive	B-Price
+lunch	B-Cuisine
+spot	O
+
+where	O
+is	O
+an	O
+expensive	B-Price
+place	O
+that	O
+serves	O
+garlic	B-Dish
+
+where	O
+is	O
+an	O
+expensive	B-Price
+restaurant	O
+
+where	O
+is	O
+an	O
+indian	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+an	O
+inexpensive	B-Price
+mexican	B-Cuisine
+restaurant	O
+nearby	B-Location
+
+where	O
+is	O
+applebees	B-Restaurant_Name
+
+where	O
+is	O
+arbys	B-Restaurant_Name
+
+where	O
+is	O
+best	B-Rating
+cafe	B-Cuisine
+located	O
+
+where	O
+is	O
+best	B-Rating
+theater	B-Amenity
+dining	B-Cuisine
+in	O
+the	O
+fort	B-Location
+myers	I-Location
+area	I-Location
+
+where	O
+is	O
+brennans	B-Restaurant_Name
+grill	I-Restaurant_Name
+irish	I-Restaurant_Name
+tavern	I-Restaurant_Name
+
+where	O
+is	O
+buger	B-Restaurant_Name
+king	I-Restaurant_Name
+
+where	O
+is	O
+burger	B-Restaurant_Name
+king	I-Restaurant_Name
+
+where	O
+is	O
+burgerking	B-Restaurant_Name
+
+where	O
+is	O
+cabana	B-Restaurant_Name
+on	O
+peterborough	B-Location
+street	I-Location
+
+where	O
+is	O
+cafe	B-Restaurant_Name
+rio	I-Restaurant_Name
+
+where	O
+is	O
+carls	B-Restaurant_Name
+jr	I-Restaurant_Name
+
+where	O
+is	O
+cheap	B-Price
+pizza	B-Dish
+in	O
+new	B-Location
+york	I-Location
+
+where	O
+is	O
+chick	B-Restaurant_Name
+fil	I-Restaurant_Name
+a	I-Restaurant_Name
+
+where	O
+is	O
+chilis	B-Restaurant_Name
+
+where	O
+is	O
+churchs	B-Restaurant_Name
+
+where	O
+is	O
+dedham	B-Restaurant_Name
+house	I-Restaurant_Name
+of	I-Restaurant_Name
+pizza	I-Restaurant_Name
+located	O
+
+where	O
+is	O
+evs	B-Restaurant_Name
+usa	I-Restaurant_Name
+
+where	O
+is	O
+extra	B-Amenity
+parking	I-Amenity
+for	O
+odouls	B-Restaurant_Name
+
+where	O
+is	O
+five	B-Restaurant_Name
+guys	I-Restaurant_Name
+
+where	O
+is	O
+francos	B-Restaurant_Name
+italian	I-Restaurant_Name
+pizza	I-Restaurant_Name
+
+where	O
+is	O
+golden	B-Restaurant_Name
+coral	I-Restaurant_Name
+from	B-Location
+here	I-Location
+
+where	O
+is	O
+good	O
+mexican	B-Cuisine
+enchiladas	B-Dish
+
+where	O
+is	O
+good	B-Rating
+mexican	B-Cuisine
+food	O
+in	O
+riverside	B-Location
+
+where	O
+is	O
+good	O
+peruvian	B-Cuisine
+food	O
+near	B-Location
+here	I-Location
+
+where	O
+is	O
+griffs	B-Restaurant_Name
+
+where	O
+is	O
+highland	B-Restaurant_Name
+pizza	I-Restaurant_Name
+and	I-Restaurant_Name
+sub	I-Restaurant_Name
+
+where	O
+is	O
+hungry	B-Restaurant_Name
+howies	I-Restaurant_Name
+pizza	I-Restaurant_Name
+
+where	O
+is	O
+izakaya	B-Restaurant_Name
+gazen	I-Restaurant_Name
+
+where	O
+is	O
+jamba	B-Restaurant_Name
+juice	I-Restaurant_Name
+
+where	O
+is	O
+kfc	B-Restaurant_Name
+
+where	O
+is	O
+la	B-Restaurant_Name
+diferencia	I-Restaurant_Name
+restaurant	I-Restaurant_Name
+in	O
+the	O
+theatre	B-Location
+district	I-Location
+
+where	O
+is	O
+main	B-Restaurant_Name
+street	I-Restaurant_Name
+cafe	I-Restaurant_Name
+
+where	O
+is	O
+marios	B-Restaurant_Name
+italian	I-Restaurant_Name
+restaurant	I-Restaurant_Name
+
+where	O
+is	O
+mcdonalds	B-Restaurant_Name
+
+where	O
+is	O
+new	B-Restaurant_Name
+mother	I-Restaurant_Name
+india	I-Restaurant_Name
+on	O
+west	B-Location
+wyoming	I-Location
+avenue	I-Location
+
+where	O
+is	O
+olive	B-Restaurant_Name
+garden	I-Restaurant_Name
+
+where	O
+is	O
+papa	B-Restaurant_Name
+johns	I-Restaurant_Name
+
+where	O
+is	O
+parkway	B-Restaurant_Name
+restaurant	I-Restaurant_Name
+in	B-Location
+woburn	I-Location
+
+where	O
+is	O
+pizza	B-Restaurant_Name
+hut	I-Restaurant_Name
+
+where	O
+is	O
+pizza	B-Restaurant_Name
+patron	I-Restaurant_Name
+
+where	O
+is	O
+powder	B-Restaurant_Name
+house	I-Restaurant_Name
+pub	I-Restaurant_Name
+and	I-Restaurant_Name
+grill	I-Restaurant_Name
+located	O
+that	O
+serves	O
+24	B-Hours
+hours	I-Hours
+
+where	O
+is	O
+red	B-Restaurant_Name
+lobster	I-Restaurant_Name
+
+where	O
+is	O
+ryans	B-Restaurant_Name
+steak	I-Restaurant_Name
+house	I-Restaurant_Name
+in	O
+seneca	B-Location
+
+where	O
+is	O
+saydes	B-Restaurant_Name
+restaurant	I-Restaurant_Name
+on	O
+inman	B-Location
+square	I-Location
+that	O
+is	O
+open	B-Hours
+all	I-Hours
+the	I-Hours
+time	I-Hours
+
+where	O
+is	O
+shao	B-Restaurant_Name
+garden	I-Restaurant_Name
+restaurant	I-Restaurant_Name
+
+where	O
+is	O
+some	O
+fast	B-Cuisine
+food	I-Cuisine
+in	O
+stoneham	B-Location
+that	O
+is	O
+open	B-Hours
+till	I-Hours
+midnight	I-Hours
+
+where	O
+is	O
+sonic	B-Restaurant_Name
+
+where	O
+is	O
+sun	B-Restaurant_Name
+pizza	I-Restaurant_Name
+located	O
+
+where	O
+is	O
+susans	B-Restaurant_Name
+deli	I-Restaurant_Name
+
+where	O
+is	O
+taco	B-Restaurant_Name
+bell	I-Restaurant_Name
+
+where	O
+is	O
+taco	B-Restaurant_Name
+bueno	I-Restaurant_Name
+
+where	O
+is	O
+that	O
+argentinian	B-Cuisine
+steakhouse	I-Cuisine
+with	O
+all	O
+the	O
+good	B-Rating
+reviews	O
+
+where	O
+is	O
+that	O
+bakery	B-Cuisine
+on	O
+halsted	B-Location
+street	I-Location
+
+where	O
+is	O
+the	O
+bar	O
+szechuan	B-Restaurant_Name
+chefs	I-Restaurant_Name
+located	B-Location
+
+where	O
+is	O
+the	O
+bar	O
+that	O
+opens	B-Hours
+the	I-Hours
+earliest	I-Hours
+with	O
+good	B-Rating
+food	I-Rating
+
+where	O
+is	O
+the	O
+beane	B-Restaurant_Name
+towne	I-Restaurant_Name
+coffee	I-Restaurant_Name
+house	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+best	B-Rating
+barbeque	B-Cuisine
+place	O
+within	B-Location
+15	I-Location
+minutes	I-Location
+of	O
+here	O
+
+where	O
+is	O
+the	O
+best	B-Rating
+bbq	B-Cuisine
+in	O
+austin	B-Location
+
+where	O
+is	O
+the	O
+best	B-Rating
+black	B-Amenity
+tie	I-Amenity
+place	O
+to	O
+eat	O
+
+where	O
+is	O
+the	O
+best	B-Rating
+cheap	B-Price
+food	O
+
+where	O
+is	O
+the	O
+best	B-Rating
+chinese	B-Cuisine
+restaurant	O
+in	B-Location
+the	I-Location
+area	I-Location
+
+where	O
+is	O
+the	O
+best	B-Rating
+cookies	B-Dish
+
+where	O
+is	O
+the	O
+best	B-Rating
+hibachi	B-Dish
+restaurant	O
+that	O
+is	O
+open	B-Hours
+for	I-Hours
+lunch	I-Hours
+
+where	O
+is	O
+the	O
+best	O
+hotdog	B-Cuisine
+joint	O
+nearby	B-Location
+
+where	O
+is	O
+the	O
+best	B-Rating
+late	B-Hours
+night	I-Hours
+fine	B-Amenity
+dining	I-Amenity
+
+where	O
+is	O
+the	O
+best	O
+lobster	B-Dish
+roll	I-Dish
+in	O
+maine	B-Location
+
+where	O
+is	O
+the	O
+best	B-Rating
+meal	O
+under	B-Price
+10	I-Price
+in	O
+minneapolis	B-Location
+
+where	O
+is	O
+the	O
+best	O
+mexican	B-Cuisine
+food	O
+in	O
+se	B-Location
+portland	I-Location
+
+where	O
+is	O
+the	O
+best	B-Rating
+mexican	B-Cuisine
+food	O
+nearby	B-Location
+
+where	O
+is	O
+the	O
+best	B-Rating
+oyster	B-Cuisine
+bar	I-Cuisine
+
+where	O
+is	O
+the	O
+best	B-Rating
+pizza	B-Dish
+in	B-Location
+town	I-Location
+
+where	O
+is	O
+the	O
+best	B-Rating
+place	O
+for	O
+a	O
+business	B-Amenity
+dinner	I-Amenity
+
+where	O
+is	O
+the	O
+best	B-Rating
+place	O
+for	O
+a	O
+taco	B-Dish
+for	O
+children	B-Amenity
+
+where	O
+is	O
+the	O
+best	B-Rating
+place	O
+for	O
+fried	B-Dish
+chicken	I-Dish
+
+where	O
+is	O
+the	O
+best	B-Location
+place	O
+for	O
+tacos	B-Dish
+on	O
+the	O
+way	B-Location
+to	O
+the	O
+airport	B-Location
+from	O
+here	O
+
+where	O
+is	O
+the	O
+best	B-Rating
+place	O
+to	O
+eat	O
+that	O
+has	O
+mexican	B-Cuisine
+food	O
+on	O
+main	B-Location
+st	I-Location
+
+where	O
+is	O
+the	O
+best	B-Rating
+place	O
+to	O
+find	O
+italian	B-Cuisine
+food	O
+near	B-Location
+here	I-Location
+
+where	O
+is	O
+the	O
+best	B-Rating
+place	O
+to	O
+get	O
+a	O
+hamburger	B-Dish
+around	B-Location
+here	I-Location
+
+where	O
+is	O
+the	O
+best	B-Rating
+place	O
+to	O
+get	O
+german	B-Cuisine
+food	O
+in	O
+georgetown	B-Location
+
+where	O
+is	O
+the	O
+best	B-Rating
+place	O
+to	O
+get	O
+light	B-Cuisine
+french	I-Cuisine
+fare	O
+
+where	O
+is	O
+the	O
+best	B-Rating
+place	O
+to	O
+take	O
+a	O
+date	B-Amenity
+
+where	O
+is	O
+the	O
+best	B-Rating
+rated	O
+tapas	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+best	B-Rating
+restaurant	O
+open	B-Hours
+after	I-Hours
+12	I-Hours
+pm	I-Hours
+
+where	O
+is	O
+the	O
+best	B-Rating
+salad	I-Rating
+bar	B-Location
+in	I-Location
+town	I-Location
+
+where	O
+is	O
+the	O
+best	B-Rating
+seafood	B-Cuisine
+restaurant	O
+in	O
+seattle	B-Location
+
+where	O
+is	O
+the	O
+best	B-Rating
+thai	B-Cuisine
+restaurant	O
+here	B-Location
+
+where	O
+is	O
+the	O
+bistro	B-Cuisine
+at	O
+utopia	B-Location
+place	I-Location
+located	O
+that	O
+serves	O
+executive	B-Amenity
+breakfast	I-Amenity
+
+where	O
+is	O
+the	O
+cheapest	B-Price
+bar	B-Cuisine
+and	I-Cuisine
+grill	I-Cuisine
+that	O
+doesnt	B-Amenity
+allow	I-Amenity
+smoking	I-Amenity
+
+where	O
+is	O
+the	O
+cheapest	B-Price
+fast	B-Cuisine
+food	I-Cuisine
+restaurant	O
+located	B-Location
+near	I-Location
+me	I-Location
+
+where	O
+is	O
+the	O
+cheapest	B-Price
+italian	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+cheapest	B-Price
+place	O
+i	O
+can	O
+bring	B-Amenity
+my	I-Amenity
+kids	I-Amenity
+
+where	O
+is	O
+the	O
+cheapest	B-Price
+place	O
+in	O
+boston	B-Location
+to	O
+get	O
+steamed	B-Dish
+shrimp	I-Dish
+
+where	O
+is	O
+the	O
+cheapest	B-Price
+restaurant	O
+nearby	B-Location
+
+where	O
+is	O
+the	O
+cheapest	B-Price
+restaurant	O
+with	O
+a	O
+parking	B-Amenity
+lot	I-Amenity
+
+where	O
+is	O
+the	O
+chucky	B-Restaurant_Name
+cheese	I-Restaurant_Name
+in	O
+topeka	B-Location
+
+where	O
+is	O
+the	O
+cloest	B-Location
+taco	B-Cuisine
+truck	I-Cuisine
+
+where	O
+is	O
+the	O
+closes	B-Location
+mcdonalds	B-Restaurant_Name
+
+where	O
+is	O
+the	O
+closest	B-Location
+24	B-Hours
+hour	B-Amenity
+restaurant	O
+thanks	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+5	B-Rating
+star	I-Rating
+chinese	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+5	B-Rating
+star	I-Rating
+restaurant	O
+that	O
+take	B-Amenity
+discover	I-Amenity
+
+where	O
+is	O
+the	O
+closest	B-Location
+and	O
+cheap	B-Price
+wapo	B-Cuisine
+tapo	I-Cuisine
+restaurant	O
+around	B-Location
+here	I-Location
+
+where	O
+is	O
+the	O
+closest	B-Location
+applebees	B-Restaurant_Name
+
+where	O
+is	O
+the	O
+closest	B-Location
+arbys	B-Restaurant_Name
+
+where	O
+is	O
+the	O
+closest	B-Location
+authentic	B-Cuisine
+chinese	I-Cuisine
+restaurant	O
+with	O
+take	B-Amenity
+out	I-Amenity
+
+where	O
+is	O
+the	O
+closest	B-Location
+bertucci	B-Restaurant_Name
+
+where	O
+is	O
+the	O
+closest	B-Location
+black	B-Restaurant_Name
+angus	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+closest	B-Location
+boston	B-Restaurant_Name
+market	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+closest	B-Location
+buffalo	B-Restaurant_Name
+wild	I-Restaurant_Name
+wings	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+closest	B-Location
+burger	B-Restaurant_Name
+king	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+closest	B-Location
+burger	B-Dish
+place	O
+thats	O
+3	B-Rating
+stars	I-Rating
+
+where	O
+is	O
+the	O
+closest	B-Location
+burger	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+carry	B-Amenity
+out	I-Amenity
+restaurant	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+charles	B-Restaurant_Name
+chicken	I-Restaurant_Name
+shack	I-Restaurant_Name
+that	O
+is	O
+still	B-Hours
+open	I-Hours
+
+where	O
+is	O
+the	O
+closest	O
+cheesecake	B-Restaurant_Name
+factory	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+closest	B-Location
+chilis	B-Restaurant_Name
+to	O
+my	B-Location
+current	I-Location
+location	I-Location
+
+where	O
+is	O
+the	O
+closest	B-Location
+chineese	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+chinese	B-Cuisine
+buffet	B-Amenity
+
+where	O
+is	O
+the	O
+closest	B-Location
+chinese	B-Cuisine
+carryout	B-Amenity
+place	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+chinese	B-Cuisine
+food	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+chinese	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+chinese	B-Cuisine
+restuarant	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+chinese	B-Cuisine
+take	B-Amenity
+out	I-Amenity
+restaurant	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+coffee	B-Cuisine
+shop	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+dairy	B-Restaurant_Name
+queen	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+closest	B-Location
+dennys	B-Restaurant_Name
+
+where	O
+is	O
+the	O
+closest	O
+dennys	B-Restaurant_Name
+to	O
+hempstead	B-Location
+ny	I-Location
+
+where	O
+is	O
+the	O
+closest	B-Location
+diner	B-Cuisine
+
+where	O
+is	O
+the	O
+closest	B-Location
+doughnut	B-Cuisine
+shop	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+drive	B-Amenity
+thru	I-Amenity
+restaurant	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+family	B-Amenity
+restaurant	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+fast	B-Cuisine
+food	I-Cuisine
+
+where	O
+is	O
+the	O
+closest	B-Location
+fast	B-Cuisine
+food	I-Cuisine
+along	B-Location
+my	I-Location
+route	I-Location
+
+where	O
+is	O
+the	O
+closest	B-Location
+fast	B-Cuisine
+food	I-Cuisine
+place	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+fast	B-Cuisine
+food	I-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+fast	B-Cuisine
+food	I-Cuisine
+restaurant	O
+that	O
+has	O
+a	O
+drive	B-Amenity
+thru	I-Amenity
+
+where	O
+is	O
+the	O
+closest	B-Location
+fast	O
+food	O
+station	B-Location
+
+where	O
+is	O
+the	O
+closest	B-Location
+five	B-Rating
+star	I-Rating
+steakhouse	B-Cuisine
+
+where	O
+is	O
+the	O
+closest	B-Location
+four	B-Rating
+star	I-Rating
+restaurant	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+greek	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+hamburger	B-Dish
+place	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+hardys	B-Restaurant_Name
+
+where	O
+is	O
+the	O
+closest	B-Location
+home	B-Dish
+made	I-Dish
+meatballs	I-Dish
+
+where	O
+is	O
+the	O
+closest	B-Location
+hong	B-Restaurant_Name
+kong	I-Restaurant_Name
+king	I-Restaurant_Name
+located	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+hong	B-Cuisine
+kong	I-Cuisine
+style	O
+cafe	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+ihop	B-Restaurant_Name
+
+where	O
+is	O
+the	O
+closest	B-Location
+independent	B-Amenity
+breakfast	B-Hours
+restaurant	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+italian	B-Cuisine
+place	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+italian	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+jack	B-Restaurant_Name
+in	I-Restaurant_Name
+the	I-Restaurant_Name
+box	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+closest	B-Location
+kid	B-Amenity
+friendly	I-Amenity
+restaurant	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+kid	B-Amenity
+friendly	I-Amenity
+restaurant	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+korean	B-Cuisine
+barbeque	I-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+korean	B-Cuisine
+bbq	I-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+lil	B-Restaurant_Name
+ceasers	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+closest	B-Location
+macaroni	B-Restaurant_Name
+grill	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+closest	B-Location
+mcdonalds	B-Restaurant_Name
+
+where	O
+is	O
+the	O
+closest	B-Location
+mcdonalds	B-Restaurant_Name
+food	O
+chain	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+mcdonalds	B-Restaurant_Name
+that	O
+is	O
+open	B-Hours
+24	I-Hours
+by	I-Hours
+7	I-Hours
+
+where	O
+is	O
+the	O
+closest	B-Location
+mcdonalds	B-Restaurant_Name
+to	O
+me	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+mcdonalds	B-Restaurant_Name
+with	B-Amenity
+a	I-Amenity
+play	I-Amenity
+area	I-Amenity
+
+where	O
+is	O
+the	O
+closest	B-Location
+mexican	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+nice	B-Rating
+restaurant	O
+with	O
+wifi	B-Amenity
+
+where	O
+is	O
+the	O
+closest	B-Location
+non	B-Cuisine
+fastfood	I-Cuisine
+place	O
+to	O
+get	O
+a	O
+burger	B-Dish
+
+where	O
+is	O
+the	O
+closest	B-Location
+ocharleys	B-Restaurant_Name
+
+where	O
+is	O
+the	O
+closest	B-Location
+olive	B-Restaurant_Name
+garden	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+closest	B-Location
+outback	B-Restaurant_Name
+steakhouse	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+closest	B-Location
+palce	O
+that	O
+us	O
+still	O
+serving	O
+brunch	B-Cuisine
+at	O
+11	B-Hours
+am	I-Hours
+
+where	O
+is	O
+the	O
+closest	B-Location
+pancake	B-Dish
+restaurant	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+persian	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+pizza	B-Dish
+place	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+pizza	B-Dish
+restaurant	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+place	O
+i	O
+can	O
+get	O
+sushi	B-Dish
+
+where	O
+is	O
+the	O
+closest	B-Location
+place	I-Location
+that	O
+sells	O
+tacos	B-Dish
+
+where	O
+is	O
+the	O
+closest	B-Location
+place	O
+to	O
+eat	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+place	O
+to	O
+get	O
+a	O
+cup	B-Dish
+of	I-Dish
+coffee	I-Dish
+
+where	O
+is	O
+the	O
+closest	B-Location
+place	O
+to	O
+get	O
+a	O
+pizza	B-Cuisine
+
+where	O
+is	O
+the	O
+closest	B-Location
+place	O
+with	O
+an	O
+indoor	B-Amenity
+play	I-Amenity
+area	I-Amenity
+for	I-Amenity
+kids	I-Amenity
+
+where	O
+is	O
+the	O
+closest	B-Location
+red	B-Restaurant_Name
+lobster	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+closest	B-Location
+restaurant	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+restaurant	O
+that	O
+has	O
+live	B-Amenity
+music	I-Amenity
+
+where	O
+is	O
+the	O
+closest	B-Location
+restaurant	O
+that	O
+is	O
+open	B-Hours
+right	I-Hours
+now	I-Hours
+
+where	O
+is	O
+the	O
+closest	B-Location
+restaurant	O
+that	O
+serves	O
+breakfast	B-Amenity
+allday	I-Amenity
+
+where	O
+is	O
+the	O
+closest	B-Location
+restaurant	O
+that	O
+serves	O
+poutine	B-Dish
+
+where	O
+is	O
+the	O
+closest	B-Location
+restaurant	O
+that	O
+serves	O
+seafood	B-Cuisine
+
+where	O
+is	O
+the	O
+closest	B-Location
+restaurant	O
+to	B-Location
+my	I-Location
+work	I-Location
+
+where	O
+is	O
+the	O
+closest	B-Location
+restaurant	O
+with	O
+outdoor	B-Amenity
+seating	I-Amenity
+that	O
+serves	O
+microbrew	B-Dish
+
+where	O
+is	O
+the	O
+closest	B-Location
+restaurant	O
+with	O
+wifi	B-Amenity
+
+where	O
+is	O
+the	O
+closest	B-Location
+seafood	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+seafood	B-Cuisine
+restaurant	O
+to	O
+home	B-Location
+
+where	O
+is	O
+the	O
+closest	B-Location
+shogun	B-Restaurant_Name
+nine	I-Restaurant_Name
+restaurant	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+sizzler	B-Restaurant_Name
+
+where	O
+is	O
+the	O
+closest	B-Location
+smoking	B-Amenity
+friendly	I-Amenity
+streak	B-Cuisine
+house	I-Cuisine
+
+where	O
+is	O
+the	O
+closest	B-Location
+sonic	B-Restaurant_Name
+
+where	O
+is	O
+the	O
+closest	B-Location
+steakhouse	B-Cuisine
+with	O
+live	B-Amenity
+music	I-Amenity
+on	O
+friday	B-Hours
+nights	I-Hours
+
+where	O
+is	O
+the	O
+closest	B-Location
+subway	B-Restaurant_Name
+sandwich	O
+place	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+taco	B-Restaurant_Name
+bell	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+closest	B-Location
+take	B-Amenity
+out	I-Amenity
+place	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+thai	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+tomato	B-Restaurant_Name
+joes	I-Restaurant_Name
+to	O
+me	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+ultimate	B-Restaurant_Name
+restaurant	I-Restaurant_Name
+that	O
+opens	B-Hours
+after	I-Hours
+10	I-Hours
+pm	I-Hours
+
+where	O
+is	O
+the	O
+closest	B-Location
+vegan	B-Cuisine
+place	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+vietnamese	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+closest	B-Location
+wendys	B-Restaurant_Name
+
+where	O
+is	O
+the	O
+closest	B-Location
+wendys	B-Restaurant_Name
+to	O
+my	O
+location	O
+
+where	O
+is	O
+the	O
+closet	B-Location
+fast	B-Cuisine
+food	I-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+closet	B-Location
+mexican	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+closet	B-Location
+place	O
+i	O
+can	O
+get	O
+some	O
+crab	B-Dish
+rangoon	I-Dish
+
+where	O
+is	O
+the	O
+fancies	B-Rating
+restaurant	O
+in	B-Location
+town	I-Location
+
+where	O
+is	O
+the	O
+flora	B-Restaurant_Name
+restaurant	O
+
+where	O
+is	O
+the	O
+french	B-Cuisine
+place	O
+with	O
+a	O
+valet	B-Amenity
+thats	O
+near	B-Location
+here	I-Location
+
+where	O
+is	O
+the	O
+golden	B-Restaurant_Name
+spoon	I-Restaurant_Name
+coffee	I-Restaurant_Name
+shop	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+highest	B-Rating
+ranked	I-Rating
+fish	B-Cuisine
+place	O
+in	O
+the	O
+city	B-Location
+
+where	O
+is	O
+the	O
+highest	B-Rating
+rated	I-Rating
+chinese	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+highest	B-Rating
+rated	I-Rating
+italian	B-Cuisine
+restaurant	O
+on	O
+this	B-Location
+side	I-Location
+of	I-Location
+town	I-Location
+
+where	O
+is	O
+the	O
+highest	B-Rating
+rated	I-Rating
+malaysian	B-Cuisine
+restaurant	O
+in	O
+the	O
+theater	B-Location
+district	I-Location
+
+where	O
+is	O
+the	O
+highest	B-Rating
+rated	I-Rating
+mexican	B-Cuisine
+restaurant	O
+in	B-Location
+the	I-Location
+area	I-Location
+
+where	O
+is	O
+the	O
+hot	B-Dish
+pot	I-Dish
+restaurant	O
+in	B-Location
+union	I-Location
+city	I-Location
+
+where	O
+is	O
+the	O
+kentucky	B-Restaurant_Name
+fried	I-Restaurant_Name
+chicken	I-Restaurant_Name
+in	B-Location
+kansas	I-Location
+city	I-Location
+that	O
+is	O
+within	B-Location
+5	I-Location
+miles	I-Location
+
+where	O
+is	O
+the	O
+local	B-Location
+mcdonalds	B-Restaurant_Name
+
+where	O
+is	O
+the	O
+location	O
+of	O
+a	O
+seafood	B-Cuisine
+place	O
+in	O
+manhattan	B-Location
+
+where	O
+is	O
+the	O
+mall	B-Location
+
+where	O
+is	O
+the	O
+mcdonalds	B-Restaurant_Name
+closest	B-Location
+to	I-Location
+here	I-Location
+
+where	O
+is	O
+the	O
+most	B-Price
+expensive	I-Price
+and	O
+hardest	O
+to	O
+get	O
+into	O
+restaurant	O
+in	B-Location
+town	I-Location
+
+where	O
+is	O
+the	O
+most	B-Price
+expensive	I-Price
+fast	B-Cuisine
+food	I-Cuisine
+
+where	O
+is	O
+the	O
+most	B-Rating
+popular	I-Rating
+gastropub	B-Cuisine
+with	O
+the	O
+best	B-Location
+microbrews	I-Location
+
+where	O
+is	O
+the	O
+nearby	B-Location
+favorite	O
+mediterranean	B-Cuisine
+food	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+1	B-Restaurant_Name
+a	I-Restaurant_Name
+restaurant	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+nearest	B-Location
+24	B-Hours
+hour	I-Hours
+japanese	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+5	B-Rating
+star	I-Rating
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+5	B-Rating
+star	I-Rating
+restaurant	O
+that	O
+serves	O
+italian	B-Cuisine
+food	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+all	B-Hours
+night	I-Hours
+seafood	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+all	B-Amenity
+you	I-Amenity
+can	I-Amenity
+eat	I-Amenity
+buffet	I-Amenity
+
+where	O
+is	O
+the	O
+nearest	B-Location
+american	B-Cuisine
+cuisine	O
+restaurant	O
+with	B-Amenity
+a	I-Amenity
+bar	I-Amenity
+
+where	O
+is	O
+the	O
+nearest	B-Location
+anthonys	B-Restaurant_Name
+pizza	I-Restaurant_Name
+and	I-Restaurant_Name
+subs	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+nearest	B-Location
+applebees	B-Restaurant_Name
+
+where	O
+is	O
+the	O
+nearest	B-Location
+bar	B-Cuisine
+with	O
+outdoor	B-Amenity
+seating	I-Amenity
+
+where	O
+is	O
+the	O
+nearest	B-Location
+bistro	B-Cuisine
+
+where	O
+is	O
+the	O
+nearest	B-Location
+buffet	B-Amenity
+restaurant	O
+that	O
+has	O
+a	O
+kids	B-Amenity
+menu	I-Amenity
+
+where	O
+is	O
+the	O
+nearest	B-Location
+burger	B-Cuisine
+joint	I-Cuisine
+
+where	O
+is	O
+the	O
+nearest	B-Location
+burger	B-Cuisine
+joint	I-Cuisine
+within	B-Location
+10	I-Location
+miles	I-Location
+of	O
+here	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+burger	B-Restaurant_Name
+king	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+nearest	B-Location
+burger	B-Cuisine
+place	O
+that	O
+has	O
+a	O
+kids	B-Amenity
+menu	I-Amenity
+
+where	O
+is	O
+the	O
+nearest	B-Location
+burrito	B-Dish
+restaurant	O
+with	O
+takeout	B-Amenity
+
+where	O
+is	O
+the	O
+nearest	B-Location
+cafe	B-Cuisine
+at	O
+the	O
+crossing	B-Location
+location	I-Location
+
+where	O
+is	O
+the	O
+nearest	B-Location
+canton	B-Restaurant_Name
+eatery	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+nearest	B-Location
+casual	B-Amenity
+dining	I-Amenity
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+casual	B-Amenity
+italian	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+cheapest	B-Price
+deli	B-Cuisine
+around	B-Location
+here	I-Location
+
+where	O
+is	O
+the	O
+nearest	B-Location
+chilies	B-Restaurant_Name
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+chilis	B-Restaurant_Name
+
+where	O
+is	O
+the	O
+nearest	B-Location
+chinese	B-Cuisine
+buffet	B-Amenity
+
+where	O
+is	O
+the	O
+nearest	B-Location
+chinese	B-Cuisine
+carryout	B-Amenity
+
+where	O
+is	O
+the	O
+nearest	B-Location
+chinese	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+chipotle	B-Restaurant_Name
+
+where	O
+is	O
+the	O
+nearest	B-Location
+chipotle	B-Restaurant_Name
+grill	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+nearest	B-Location
+co	B-Cuisine
+op	I-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+coffee	O
+shop	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+convenience	O
+store	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+dairy	B-Cuisine
+style	O
+fast	B-Cuisine
+food	I-Cuisine
+place	B-Location
+
+where	O
+is	O
+the	O
+nearest	B-Location
+deli	B-Cuisine
+
+where	O
+is	O
+the	O
+nearest	B-Location
+dennys	B-Restaurant_Name
+
+where	O
+is	O
+the	O
+nearest	O
+dennys	B-Restaurant_Name
+to	O
+glen	B-Location
+cove	I-Location
+ny	I-Location
+
+where	O
+is	O
+the	O
+nearest	B-Location
+drive	B-Amenity
+through	I-Amenity
+
+where	O
+is	O
+the	O
+nearest	B-Location
+eating	O
+establishment	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+ethiopian	B-Cuisine
+place	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+ethopian	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+family	B-Amenity
+friendly	I-Amenity
+restaurant	O
+
+where	B-Location
+is	O
+the	O
+nearest	O
+family	B-Amenity
+style	I-Amenity
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+famous	B-Restaurant_Name
+daves	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+nearest	B-Location
+fast	B-Cuisine
+food	I-Cuisine
+hamburger	I-Cuisine
+place	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+fast	B-Cuisine
+food	I-Cuisine
+hamburger	I-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+fast	B-Cuisine
+food	I-Cuisine
+place	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+fast	B-Cuisine
+food	I-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+fine	B-Amenity
+dining	I-Amenity
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+five	B-Rating
+star	I-Rating
+seafood	B-Cuisine
+place	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+gay	O
+bar	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+german	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+gold	B-Restaurant_Name
+medal	I-Restaurant_Name
+bakery	I-Restaurant_Name
+that	O
+delivers	B-Amenity
+
+where	O
+is	O
+the	O
+nearest	B-Location
+good	B-Restaurant_Name
+thymes	I-Restaurant_Name
+family	I-Restaurant_Name
+restaurant	I-Restaurant_Name
+that	O
+has	O
+a	O
+fireplace	B-Amenity
+
+where	O
+is	O
+the	O
+nearest	B-Location
+grand	B-Restaurant_Name
+china	I-Restaurant_Name
+restaurant	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+nearest	B-Location
+havard	I-Location
+chinese	B-Cuisine
+restaurant	O
+that	O
+has	O
+byob	B-Amenity
+policy	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+ihop	B-Restaurant_Name
+
+where	O
+is	O
+the	O
+nearest	B-Location
+in	B-Restaurant_Name
+n	I-Restaurant_Name
+out	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+nearest	B-Location
+inexpensive	B-Price
+restaurant	O
+that	O
+has	O
+bus	B-Amenity
+parking	I-Amenity
+
+where	O
+is	O
+the	O
+nearest	B-Location
+italian	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+italian	B-Cuisine
+restaurant	O
+that	O
+is	O
+still	B-Hours
+open	I-Hours
+
+where	O
+is	O
+the	O
+nearest	B-Location
+ittalian	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+jamaican	B-Cuisine
+eatery	B-Location
+
+where	O
+is	O
+the	O
+nearest	B-Location
+kid	B-Amenity
+friendly	I-Amenity
+burger	B-Cuisine
+restaurant	O
+from	O
+where	O
+i	O
+am	O
+right	O
+now	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+kid	B-Amenity
+friendly	I-Amenity
+italian	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+kid	B-Amenity
+friendly	I-Amenity
+pizza	B-Cuisine
+place	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+kid	B-Amenity
+friendly	I-Amenity
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+kid	B-Amenity
+friendly	I-Amenity
+restaurant	O
+in	B-Location
+toledo	I-Location
+ohio	I-Location
+
+where	O
+is	O
+the	O
+nearest	B-Location
+little	B-Restaurant_Name
+caesars	I-Restaurant_Name
+pizza	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+nearest	B-Location
+malaysian	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+mcdonalds	B-Restaurant_Name
+
+where	O
+is	O
+the	O
+nearest	B-Location
+mcdonalds	B-Restaurant_Name
+with	O
+a	O
+play	B-Amenity
+area	I-Amenity
+
+where	O
+is	O
+the	O
+nearest	B-Location
+medium	B-Price
+ranged	O
+restaurant	O
+within	O
+a	O
+ten	B-Location
+mile	I-Location
+location	I-Location
+of	O
+my	O
+current	O
+location	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+mexican	B-Cuisine
+food	O
+place	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+mexican	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+mexican	B-Cuisine
+restaurant	O
+and	O
+hotel	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+moderately	B-Price
+priced	O
+russian	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+mongolian	B-Cuisine
+food	O
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+no	B-Restaurant_Name
+name	I-Restaurant_Name
+pizza	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+nearest	B-Location
+olive	B-Restaurant_Name
+garden	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+nearest	O
+olive	B-Restaurant_Name
+garden	I-Restaurant_Name
+restaurant	O
+to	O
+zip	B-Location
+code	I-Location
+04032	I-Location
+
+where	O
+is	O
+the	O
+nearest	B-Location
+open	B-Hours
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+pizza	B-Cuisine
+parlor	I-Cuisine
+that	O
+accepts	B-Amenity
+checks	I-Amenity
+
+where	O
+is	O
+the	O
+nearest	B-Location
+pizza	B-Cuisine
+place	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+pizza	B-Cuisine
+place	O
+with	O
+late	B-Hours
+hours	I-Hours
+
+where	O
+is	O
+the	O
+nearest	B-Location
+place	O
+cheap	B-Price
+to	I-Price
+moderately	I-Price
+priced	O
+chicken	B-Dish
+tender	I-Dish
+place	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+place	O
+for	O
+chinese	B-Cuisine
+takeout	B-Amenity
+
+where	O
+is	O
+the	O
+nearest	B-Location
+place	O
+that	O
+serves	O
+clam	B-Dish
+sauce	I-Dish
+with	O
+cheap	B-Price
+prices	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+place	I-Location
+that	O
+serves	O
+low	B-Amenity
+carb	I-Amenity
+options	I-Amenity
+for	O
+lunch	B-Cuisine
+
+where	O
+is	O
+the	O
+nearest	B-Location
+place	O
+to	O
+eat	O
+for	O
+a	O
+reasonable	B-Price
+cost	I-Price
+
+where	O
+is	O
+the	O
+nearest	B-Location
+place	O
+to	O
+eat	O
+that	O
+has	O
+carryout	B-Amenity
+and	O
+has	O
+good	B-Rating
+reviews	I-Rating
+of	O
+their	O
+food	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+place	I-Location
+to	O
+get	O
+a	O
+ruben	B-Dish
+
+where	O
+is	O
+the	O
+nearest	B-Location
+place	O
+to	O
+get	O
+good	B-Rating
+pizza	B-Dish
+
+where	O
+is	O
+the	O
+nearest	B-Location
+place	O
+where	O
+i	O
+can	O
+get	O
+a	O
+bite	O
+to	O
+eat	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+place	O
+where	O
+i	O
+can	O
+get	O
+a	O
+fast	B-Cuisine
+meal	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+red	B-Restaurant_Name
+robin	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+nearest	B-Location
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+restaurant	O
+that	O
+allows	B-Amenity
+smoking	I-Amenity
+
+where	O
+is	O
+the	O
+nearest	B-Location
+restaurant	O
+that	O
+has	O
+been	O
+featured	O
+on	O
+diners	B-Cuisine
+drive	I-Cuisine
+ins	I-Cuisine
+and	O
+dives	B-Cuisine
+
+where	O
+is	O
+the	O
+nearest	B-Location
+restaurant	O
+that	O
+offers	O
+outdoor	B-Amenity
+dining	I-Amenity
+
+where	O
+is	O
+the	O
+nearest	B-Location
+restaurant	O
+that	O
+requires	B-Amenity
+a	I-Amenity
+tie	I-Amenity
+and	I-Amenity
+jacket	I-Amenity
+to	O
+eat	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+restaurant	O
+that	O
+sells	O
+cheeseburgers	B-Dish
+
+where	O
+is	O
+the	O
+nearest	B-Location
+restaurant	O
+that	O
+serves	O
+breakfast	B-Hours
+
+where	O
+is	O
+the	O
+nearest	B-Location
+restaurant	O
+that	O
+serves	O
+cookies	B-Dish
+
+where	O
+is	O
+the	O
+nearest	B-Location
+restaurnat	O
+that	O
+has	O
+carry	B-Amenity
+out	I-Amenity
+pizza	B-Dish
+i	O
+would	O
+like	O
+the	O
+phone	O
+number	O
+too	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+royal	B-Restaurant_Name
+garden	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+nearest	B-Location
+sandwich	B-Dish
+shop	O
+that	O
+is	O
+not	B-Amenity
+part	I-Amenity
+of	I-Amenity
+a	I-Amenity
+chain	I-Amenity
+of	I-Amenity
+stores	I-Amenity
+
+where	O
+is	O
+the	O
+nearest	B-Location
+seafood	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+sebastians	B-Restaurant_Name
+restaurant	O
+located	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+shake	B-Restaurant_Name
+shack	I-Restaurant_Name
+to	O
+greenwich	B-Location
+connecticut	I-Location
+
+where	O
+is	O
+the	O
+nearest	B-Location
+sit	B-Amenity
+down	I-Amenity
+restaurant	O
+that	O
+has	O
+a	O
+15	B-Price
+plate	I-Price
+
+where	O
+is	O
+the	O
+nearest	B-Location
+sonic	B-Restaurant_Name
+
+where	O
+is	O
+the	O
+nearest	B-Location
+soup	B-Dish
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+sports	B-Cuisine
+bar	I-Cuisine
+
+where	O
+is	O
+the	O
+nearest	B-Location
+sports	B-Cuisine
+bar	I-Cuisine
+with	B-Amenity
+televisions	I-Amenity
+
+where	O
+is	O
+the	O
+nearest	B-Location
+spot	I-Location
+that	O
+serves	O
+indian	B-Cuisine
+food	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+starbucks	B-Restaurant_Name
+
+where	O
+is	O
+the	O
+nearest	B-Location
+starbucks	B-Restaurant_Name
+coffee	O
+shop	O
+and	O
+how	O
+much	O
+is	O
+a	O
+small	O
+coffee	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+steak	B-Restaurant_Name
+and	I-Restaurant_Name
+shake	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+nearest	B-Location
+steak	B-Cuisine
+house	I-Cuisine
+
+where	O
+is	O
+the	O
+nearest	B-Location
+subway	B-Restaurant_Name
+sandwich	I-Restaurant_Name
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+sushi	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+taco	B-Restaurant_Name
+bell	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+nearest	B-Location
+taco	B-Restaurant_Name
+bell	I-Restaurant_Name
+or	O
+mexican	B-Cuisine
+place	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+taco	B-Restaurant_Name
+bell	I-Restaurant_Name
+to	O
+my	O
+current	B-Location
+location	I-Location
+
+where	O
+is	O
+the	O
+nearest	B-Location
+vegan	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+vegetarian	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+vietnamese	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+nearest	B-Location
+wendys	B-Restaurant_Name
+
+where	O
+is	O
+the	O
+nearest	B-Location
+wendys	B-Restaurant_Name
+to	O
+exit	B-Location
+33	I-Location
+on	O
+the	O
+long	B-Location
+island	I-Location
+expressway	I-Location
+
+where	O
+is	O
+the	O
+nearest	B-Location
+wings	B-Restaurant_Name
+and	I-Restaurant_Name
+salads	I-Restaurant_Name
+restaurant	O
+
+where	O
+is	O
+the	O
+nearst	B-Location
+arbys	B-Restaurant_Name
+
+where	O
+is	O
+the	O
+nearst	B-Location
+mexican	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+the	O
+nearst	B-Location
+place	I-Location
+that	O
+has	O
+great	B-Rating
+reviews	I-Rating
+
+where	O
+is	O
+the	O
+newbury	B-Location
+street	I-Location
+bakery	B-Cuisine
+and	I-Cuisine
+deli	I-Cuisine
+with	O
+the	O
+best	B-Rating
+rating	I-Rating
+
+where	O
+is	O
+the	O
+next	B-Location
+mcdonalds	B-Restaurant_Name
+
+where	O
+is	O
+the	O
+olive	B-Restaurant_Name
+garden	I-Restaurant_Name
+located	O
+
+where	O
+is	O
+the	O
+parkway	B-Restaurant_Name
+restaurant	I-Restaurant_Name
+in	B-Location
+woburn	I-Location
+
+where	O
+is	O
+the	O
+perkins	B-Restaurant_Name
+restaurant	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+pub	B-Cuisine
+
+where	O
+is	O
+the	O
+quietest	B-Amenity
+fredas	B-Restaurant_Name
+
+where	O
+is	O
+the	O
+restaurant	O
+la	B-Restaurant_Name
+parrilla	I-Restaurant_Name
+
+where	O
+is	O
+the	O
+schlotzskys	B-Restaurant_Name
+on	O
+boxboro	B-Location
+that	O
+does	O
+catering	B-Amenity
+
+where	O
+is	O
+the	O
+sugar	B-Restaurant_Name
+mountain	I-Restaurant_Name
+restaurant	I-Restaurant_Name
+
+where	O
+is	O
+there	O
+a	O
+beer	B-Amenity
+garden	I-Amenity
+
+where	O
+is	O
+there	O
+a	O
+cigar	B-Amenity
+and	O
+wine	B-Amenity
+club	I-Amenity
+
+where	O
+is	O
+there	O
+a	O
+cuban	B-Cuisine
+place	O
+that	O
+serves	O
+lunch	B-Hours
+
+where	O
+is	O
+there	O
+a	O
+dairy	B-Restaurant_Name
+queen	I-Restaurant_Name
+
+where	O
+is	O
+there	O
+a	O
+fancy	B-Amenity
+place	O
+for	O
+dinner	B-Hours
+
+where	O
+is	O
+there	O
+a	O
+fish	B-Dish
+fry	I-Dish
+tonight	B-Hours
+in	O
+fife	B-Location
+lake	I-Location
+michigan	I-Location
+
+where	O
+is	O
+there	O
+a	O
+good	O
+place	O
+to	O
+eat	O
+within	B-Location
+two	I-Location
+miles	I-Location
+of	I-Location
+here	I-Location
+
+where	O
+is	O
+there	O
+a	O
+good	B-Rating
+seafood	B-Cuisine
+place	O
+
+where	O
+is	O
+there	O
+a	O
+good	B-Rating
+wine	B-Amenity
+bar	I-Amenity
+
+where	O
+is	O
+there	O
+a	O
+greek	B-Restaurant_Name
+isles	I-Restaurant_Name
+hotel	I-Restaurant_Name
+restaurant	I-Restaurant_Name
+within	B-Location
+1	I-Location
+mile	I-Location
+
+where	O
+is	O
+there	O
+a	O
+greek	B-Cuisine
+restaurant	O
+nearby	B-Location
+
+where	O
+is	O
+there	O
+a	O
+high	B-Rating
+quality	I-Rating
+steakhouse	B-Cuisine
+that	O
+does	B-Amenity
+not	I-Amenity
+have	I-Amenity
+a	O
+dress	B-Amenity
+code	I-Amenity
+for	O
+this	B-Hours
+evening	I-Hours
+
+where	O
+is	O
+there	O
+a	O
+hotel	O
+with	O
+an	O
+asian	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+there	O
+a	O
+kid	B-Amenity
+friendly	I-Amenity
+restaurant	O
+within	B-Location
+5	I-Location
+miles	I-Location
+
+where	O
+is	O
+there	O
+a	O
+krickets	B-Restaurant_Name
+korner	I-Restaurant_Name
+featuring	O
+live	B-Amenity
+music	I-Amenity
+nearby	B-Location
+
+where	O
+is	O
+there	O
+a	O
+mcdonalds	B-Restaurant_Name
+
+where	O
+is	O
+there	O
+a	O
+mcdonals	B-Restaurant_Name
+on	O
+the	O
+north	B-Location
+side	I-Location
+of	I-Location
+town	I-Location
+
+where	O
+is	O
+there	O
+a	O
+nysa	B-Restaurant_Name
+cafe	I-Restaurant_Name
+within	B-Location
+3	I-Location
+miles	I-Location
+
+where	O
+is	O
+there	O
+a	O
+reasonably	B-Price
+priced	O
+chicken	B-Restaurant_Name
+shack	I-Restaurant_Name
+on	O
+arlington	B-Location
+street	I-Location
+
+where	O
+is	O
+there	O
+a	O
+restaurant	O
+with	O
+a	O
+great	B-Rating
+wine	B-Dish
+list	O
+
+where	O
+is	O
+there	O
+a	O
+sushi	B-Cuisine
+restaurant	O
+that	O
+can	O
+allow	O
+for	O
+groups	B-Amenity
+to	O
+dine	O
+
+where	O
+is	O
+there	O
+a	O
+tong	B-Restaurant_Name
+villa	I-Restaurant_Name
+with	O
+small	B-Amenity
+portions	I-Amenity
+
+where	O
+is	O
+there	O
+a	O
+vegan	B-Cuisine
+restaurant	O
+
+where	O
+is	O
+there	O
+a	O
+vegan	B-Cuisine
+restaurant	O
+within	B-Location
+20	I-Location
+minutes	I-Location
+
+where	O
+is	O
+there	O
+a	O
+very	B-Price
+cheap	I-Price
+middle	B-Cuisine
+eastern	I-Cuisine
+place	O
+that	O
+is	O
+open	B-Hours
+after	I-Hours
+noon	I-Hours
+
+where	O
+is	O
+there	O
+an	O
+expensive	B-Price
+spanish	B-Cuisine
+fine	B-Amenity
+dining	I-Amenity
+restaurant	O
+
+where	O
+is	O
+there	O
+an	O
+upscale	B-Price
+greek	B-Cuisine
+restaurant	O
+with	O
+parking	B-Amenity
+
+where	O
+is	O
+wendys	B-Restaurant_Name
+
+where	O
+is	O
+west	B-Restaurant_Name
+hanover	I-Restaurant_Name
+pizzeria	I-Restaurant_Name
+
+where	O
+near	O
+my	O
+location	O
+is	O
+wana	B-Restaurant_Name
+iguana	I-Restaurant_Name
+
+where	O
+nearby	B-Location
+can	O
+i	O
+eat	B-Amenity
+on	I-Amenity
+the	I-Amenity
+patio	I-Amenity
+
+where	O
+nearby	B-Location
+can	O
+i	O
+get	O
+brunch	B-Hours
+that	O
+doesnt	B-Amenity
+have	I-Amenity
+a	I-Amenity
+buffet	I-Amenity
+
+where	O
+nearby	B-Location
+is	O
+a	O
+good	B-Rating
+mexican	B-Cuisine
+place	O
+for	O
+a	O
+date	B-Amenity
+
+where	O
+nearby	B-Location
+is	O
+there	O
+an	O
+italian	B-Restaurant_Name
+place	O
+with	O
+a	O
+chefands	B-Amenity
+table	I-Amenity
+
+where	O
+north	B-Location
+of	I-Location
+me	I-Location
+is	O
+burger	B-Restaurant_Name
+king	I-Restaurant_Name
+
+where	O
+on	O
+3	B-Location
+rd	I-Location
+street	I-Location
+could	O
+i	O
+find	O
+a	O
+colombian	B-Cuisine
+restaurant	O
+with	O
+reasonable	B-Price
+prices	O
+
+where	O
+on	O
+boulevard	B-Location
+could	O
+i	O
+find	O
+some	O
+bbq	B-Cuisine
+
+where	O
+on	O
+exit	B-Location
+26	I-Location
+a	I-Location
+on	I-Location
+i	I-Location
+40	I-Location
+can	O
+i	O
+get	O
+a	O
+steak	B-Dish
+
+where	O
+on	O
+sycamore	B-Location
+street	I-Location
+could	O
+i	O
+eat	O
+a	O
+potato	B-Dish
+pie	I-Dish
+on	O
+the	O
+waterfront	B-Amenity
+
+where	O
+places	O
+have	O
+great	B-Cuisine
+selections	O
+of	O
+beer	B-Cuisine
+and	O
+great	B-Price
+prices	O
+
+where	O
+should	O
+i	O
+go	O
+for	O
+romance	B-Amenity
+
+where	O
+the	O
+the	O
+cheapest	B-Price
+place	O
+to	O
+eat	O
+at	O
+bridge	B-Location
+street	I-Location
+town	I-Location
+centre	I-Location
+
+where	O
+within	B-Location
+4	I-Location
+miles	I-Location
+could	O
+i	O
+find	O
+a	O
+group	B-Amenity
+place	I-Amenity
+with	O
+cool	B-Amenity
+music	I-Amenity
+
+where	O
+would	O
+be	O
+the	O
+best	B-Rating
+restaurant	O
+to	O
+eat	O
+with	O
+foreign	B-Cuisine
+languagne	B-Location
+speaking	I-Location
+friends	B-Amenity
+
+where	O
+would	O
+you	O
+recommend	O
+we	O
+go	O
+for	O
+a	O
+good	O
+steak	B-Dish
+dinner	O
+
+where	O
+would	O
+you	O
+suggest	O
+for	O
+a	O
+nice	B-Rating
+romantic	B-Amenity
+dinner	B-Hours
+
+wheres	O
+1790	B-Restaurant_Name
+restaurant	I-Restaurant_Name
+and	I-Restaurant_Name
+tavern	I-Restaurant_Name
+
+wheres	O
+a	O
+celebrity	B-Location
+hangout	I-Location
+that	O
+serves	O
+espresso	B-Dish
+
+wheres	O
+a	O
+cheap	B-Price
+coffee	B-Cuisine
+shop	O
+in	B-Location
+the	I-Location
+area	I-Location
+
+wheres	O
+a	O
+cheap	B-Price
+pizza	B-Cuisine
+place	O
+thats	O
+family	B-Amenity
+friendly	I-Amenity
+in	B-Location
+the	I-Location
+area	I-Location
+
+wheres	O
+a	O
+cheap	B-Price
+place	O
+around	B-Location
+here	I-Location
+i	O
+can	O
+get	O
+breakfast	B-Hours
+
+wheres	O
+a	O
+drive	B-Amenity
+through	I-Amenity
+near	B-Location
+here	I-Location
+
+wheres	O
+a	O
+good	B-Rating
+cajun	B-Cuisine
+place	O
+that	O
+has	O
+a	O
+kids	B-Amenity
+menu	I-Amenity
+
+wheres	O
+a	O
+good	B-Rating
+place	O
+to	O
+eat	O
+around	B-Location
+here	I-Location
+
+wheres	O
+a	O
+good	B-Rating
+place	O
+to	O
+eat	O
+under	B-Price
+10	I-Price
+bucks	I-Price
+a	I-Price
+person	I-Price
+
+wheres	O
+a	O
+good	B-Rating
+place	O
+to	O
+get	O
+bbq	B-Cuisine
+in	O
+calistoga	B-Location
+
+wheres	O
+a	O
+good	B-Rating
+rib	B-Dish
+restaurant	O
+to	O
+take	B-Hours
+a	I-Hours
+date	B-Amenity
+
+wheres	O
+a	O
+great	B-Rating
+place	O
+for	O
+dancing	B-Amenity
+and	O
+saucy	B-Cuisine
+food	O
+
+wheres	O
+a	O
+great	B-Rating
+place	O
+to	O
+eat	O
+thai	B-Cuisine
+food	O
+i	O
+want	O
+something	O
+spicy	B-Amenity
+to	O
+eat	O
+
+wheres	O
+a	O
+vegan	B-Cuisine
+restaurant	O
+in	O
+charlotte	B-Location
+
+wheres	O
+apollo	B-Restaurant_Name
+pizza	I-Restaurant_Name
+
+wheres	O
+best	B-Rating
+restaurant	O
+in	O
+needham	B-Location
+heights	I-Location
+
+wheres	O
+closest	B-Location
+24	B-Hours
+hours	I-Hours
+starbucks	B-Restaurant_Name
+
+wheres	O
+closest	B-Location
+dine	B-Amenity
+in	I-Amenity
+pizza	B-Restaurant_Name
+hut	I-Restaurant_Name
+
+wheres	O
+closest	B-Location
+vegetarian	B-Cuisine
+restaurant	O
+
+wheres	O
+louies	B-Restaurant_Name
+pizzeria	I-Restaurant_Name
+
+wheres	O
+merengue	B-Restaurant_Name
+restaurant	I-Restaurant_Name
+in	O
+saugus	B-Location
+
+wheres	O
+pizza	B-Dish
+
+wheres	O
+some	O
+place	O
+that	O
+has	O
+chocolate	B-Dish
+shakes	I-Dish
+
+wheres	O
+that	O
+one	O
+halal	B-Cuisine
+restaurant	O
+with	O
+the	O
+cute	B-Amenity
+servers	I-Amenity
+
+wheres	O
+that	O
+restaurant	O
+that	O
+anthony	B-Rating
+bourdain	I-Rating
+recommended	I-Rating
+
+wheres	O
+the	O
+best	B-Rating
+barbecue	B-Cuisine
+place	B-Location
+in	O
+nashville	B-Location
+
+wheres	O
+the	O
+best	B-Rating
+chili	B-Dish
+in	O
+oakland	B-Location
+
+wheres	O
+the	O
+best	B-Rating
+falafel	B-Dish
+restaurant	O
+in	B-Location
+the	I-Location
+area	I-Location
+
+wheres	O
+the	O
+best	B-Rating
+ice	B-Dish
+cream	I-Dish
+in	B-Location
+this	I-Location
+city	I-Location
+
+wheres	O
+the	O
+best	B-Rating
+indian	B-Cuisine
+food	O
+in	O
+berkeley	B-Location
+
+wheres	O
+the	O
+best	B-Rating
+place	O
+for	O
+enchiladas	B-Dish
+here	O
+
+wheres	O
+the	O
+best	B-Rating
+place	O
+to	O
+get	O
+fried	B-Dish
+chicken	I-Dish
+in	O
+germantown	B-Location
+
+wheres	O
+the	O
+best	B-Rating
+rooftop	B-Amenity
+dining	I-Amenity
+in	B-Location
+the	I-Location
+city	I-Location
+
+wheres	O
+the	O
+best	B-Rating
+steakhouse	B-Cuisine
+
+wheres	O
+the	O
+best	B-Rating
+sushi	B-Dish
+in	O
+los	B-Location
+angeles	I-Location
+
+wheres	O
+the	O
+closest	B-Location
+applebees	B-Restaurant_Name
+
+wheres	O
+the	O
+closest	B-Location
+buffet	B-Amenity
+
+wheres	O
+the	O
+closest	B-Location
+burger	B-Cuisine
+joint	I-Cuisine
+
+wheres	O
+the	O
+closest	B-Location
+carls	B-Restaurant_Name
+jr	I-Restaurant_Name
+
+wheres	O
+the	O
+closest	B-Location
+casual	B-Amenity
+dinner	B-Hours
+
+wheres	O
+the	O
+closest	B-Location
+cheap	B-Price
+lunch	B-Hours
+place	O
+
+wheres	O
+the	O
+closest	B-Location
+chinese	B-Cuisine
+food	O
+
+wheres	O
+the	O
+closest	B-Location
+chinese	B-Cuisine
+place	O
+
+wheres	O
+the	O
+closest	B-Location
+deli	B-Cuisine
+
+wheres	O
+the	O
+closest	B-Location
+dennys	B-Restaurant_Name
+
+wheres	O
+the	O
+closest	B-Location
+fast	B-Cuisine
+food	I-Cuisine
+place	O
+
+wheres	O
+the	O
+closest	B-Location
+five	B-Restaurant_Name
+guys	I-Restaurant_Name
+
+wheres	O
+the	O
+closest	B-Location
+french	B-Cuisine
+restaurant	O
+to	B-Location
+sea	I-Location
+world	I-Location
+in	I-Location
+san	I-Location
+diego	I-Location
+
+wheres	O
+the	O
+closest	B-Location
+hong	B-Cuisine
+kong	I-Cuisine
+style	I-Cuisine
+cafe	I-Cuisine
+
+wheres	O
+the	O
+closest	B-Location
+indian	B-Cuisine
+restaurant	O
+
+wheres	O
+the	O
+closest	B-Location
+jack	B-Restaurant_Name
+in	I-Restaurant_Name
+the	I-Restaurant_Name
+box	I-Restaurant_Name
+
+wheres	O
+the	O
+closest	B-Location
+kid	B-Amenity
+friendly	I-Amenity
+restaurant	O
+
+wheres	O
+the	O
+closest	B-Location
+mexican	B-Cuisine
+restaurant	O
+
+wheres	O
+the	O
+closest	B-Location
+pet	B-Amenity
+friendly	I-Amenity
+restaurant	O
+
+wheres	O
+the	O
+closest	B-Location
+pho	B-Restaurant_Name
+restaurant	O
+
+wheres	O
+the	O
+closest	B-Location
+pita	B-Dish
+place	O
+
+wheres	O
+the	O
+closest	B-Location
+place	O
+that	O
+serves	O
+breakfast	B-Hours
+
+wheres	O
+the	O
+closest	B-Location
+place	O
+to	O
+get	O
+a	O
+hot	B-Dish
+dog	I-Dish
+
+wheres	O
+the	O
+closest	B-Location
+ramen	B-Cuisine
+place	O
+
+wheres	O
+the	O
+closest	B-Location
+restaurant	O
+that	O
+has	O
+outdoor	B-Amenity
+dining	I-Amenity
+
+wheres	O
+the	O
+closest	B-Location
+restaurant	O
+that	O
+has	O
+the	O
+best	B-Rating
+fish	B-Dish
+
+wheres	O
+the	O
+closest	B-Location
+restaurant	O
+that	O
+serves	O
+asparagus	B-Dish
+baked	I-Dish
+in	I-Dish
+olive	I-Dish
+oil	I-Dish
+and	I-Dish
+garlic	I-Dish
+
+wheres	O
+the	O
+closest	B-Location
+restaurant	O
+with	O
+a	O
+kids	B-Amenity
+eat	I-Amenity
+free	I-Amenity
+deal	I-Amenity
+
+wheres	O
+the	O
+closest	B-Location
+restaurant	O
+with	O
+a	O
+takeout	B-Amenity
+menu	I-Amenity
+
+wheres	O
+the	O
+closest	B-Location
+restaurant	O
+with	O
+free	B-Amenity
+wifi	I-Amenity
+
+wheres	O
+the	O
+closest	B-Location
+sushi	B-Cuisine
+restaurant	O
+and	O
+whats	O
+its	O
+price	O
+range	O
+
+wheres	O
+the	O
+closest	B-Location
+taco	B-Restaurant_Name
+bell	I-Restaurant_Name
+open	B-Hours
+until	I-Hours
+midnight	I-Hours
+
+wheres	O
+the	O
+closest	B-Location
+thai	B-Cuisine
+restaurant	O
+
+wheres	O
+the	O
+closet	B-Location
+happy	B-Amenity
+hour	I-Amenity
+
+wheres	O
+the	O
+closet	B-Location
+place	O
+for	O
+a	O
+good	B-Rating
+steak	B-Dish
+
+wheres	O
+the	O
+closet	B-Location
+place	O
+to	O
+get	O
+crepes	B-Dish
+
+wheres	O
+the	O
+earliest	B-Hours
+i	O
+can	O
+get	O
+lunch	B-Hours
+in	O
+charlestown	B-Location
+
+wheres	O
+the	O
+nearest	B-Location
+burger	B-Cuisine
+joint	I-Cuisine
+
+wheres	O
+the	O
+nearest	B-Location
+chinese	B-Cuisine
+restaurant	O
+
+wheres	O
+the	O
+nearest	B-Location
+deli	B-Cuisine
+
+wheres	O
+the	O
+nearest	B-Location
+drive	B-Amenity
+thru	I-Amenity
+
+wheres	O
+the	O
+nearest	B-Location
+family	B-Amenity
+friendly	I-Amenity
+restaurant	O
+
+wheres	O
+the	O
+nearest	B-Location
+family	B-Cuisine
+restaurant	O
+
+wheres	O
+the	O
+nearest	B-Location
+fast	B-Cuisine
+food	I-Cuisine
+
+wheres	O
+the	O
+nearest	B-Location
+fast	B-Cuisine
+food	I-Cuisine
+place	O
+
+wheres	O
+the	O
+nearest	B-Location
+fast	B-Cuisine
+food	I-Cuisine
+place	O
+with	O
+a	O
+drive	B-Amenity
+thru	I-Amenity
+
+wheres	O
+the	O
+nearest	B-Location
+five	B-Rating
+star	I-Rating
+italian	B-Cuisine
+place	O
+
+wheres	O
+the	O
+nearest	B-Location
+ice	B-Cuisine
+cream	I-Cuisine
+parlor	I-Cuisine
+
+wheres	O
+the	O
+nearest	B-Location
+ihop	B-Restaurant_Name
+with	O
+kid	B-Amenity
+specials	I-Amenity
+on	O
+the	O
+menu	O
+
+wheres	O
+the	O
+nearest	B-Location
+italian	B-Cuisine
+place	O
+
+wheres	O
+the	O
+nearest	B-Location
+jimmy	B-Restaurant_Name
+johns	I-Restaurant_Name
+
+wheres	O
+the	O
+nearest	B-Location
+pizza	B-Restaurant_Name
+hut	I-Restaurant_Name
+
+wheres	O
+the	O
+nearest	B-Location
+pizza	B-Dish
+place	O
+
+wheres	O
+the	O
+nearest	B-Location
+place	O
+to	O
+eat	O
+
+wheres	O
+the	O
+nearest	B-Location
+restaurant	O
+with	O
+an	O
+available	B-Amenity
+outdoor	I-Amenity
+table	I-Amenity
+
+wheres	O
+the	O
+nearest	B-Location
+restaurant	O
+with	O
+live	B-Amenity
+jazz	I-Amenity
+music	I-Amenity
+
+wheres	O
+the	O
+nearest	B-Location
+smoke	B-Amenity
+free	I-Amenity
+restaurant	O
+
+wheres	O
+the	O
+nearest	B-Location
+starbucks	B-Restaurant_Name
+
+wheres	O
+the	O
+nearest	B-Location
+sunday	B-Hours
+brunch	I-Hours
+
+wheres	O
+the	O
+nearest	B-Location
+wells	O
+fargo	O
+atm	O
+
+wheres	O
+the	O
+parking	O
+for	O
+the	O
+golden	B-Restaurant_Name
+lake	I-Restaurant_Name
+restaurant	I-Restaurant_Name
+
+wheres	O
+the	O
+steak	B-Cuisine
+place	O
+on	O
+montgomery	B-Location
+
+wheres	O
+tonys	B-Restaurant_Name
+place	I-Restaurant_Name
+
+wheres	O
+ya	O
+closest	B-Location
+convenient	O
+station	O
+
+which	O
+24	B-Hours
+hour	I-Hours
+diner	B-Cuisine
+has	O
+the	O
+best	B-Rating
+service	I-Rating
+
+which	O
+are	O
+the	O
+best	B-Rating
+steakhouses	B-Cuisine
+
+which	O
+cafe	B-Cuisine
+has	O
+the	O
+highest	B-Rating
+rated	I-Rating
+wraps	B-Dish
+
+which	O
+diner	O
+open	B-Hours
+before	I-Hours
+5	I-Hours
+am	I-Hours
+has	O
+the	O
+best	B-Rating
+coffee	B-Dish
+
+which	O
+expensive	B-Price
+restaurant	O
+is	O
+close	B-Location
+by	O
+that	O
+offers	O
+a	O
+great	B-Rating
+value	I-Rating
+
+which	O
+fast	B-Cuisine
+food	I-Cuisine
+restaurant	O
+is	O
+closest	B-Location
+to	O
+me	O
+
+which	O
+fast	B-Cuisine
+food	I-Cuisine
+restaurants	O
+in	B-Location
+the	I-Location
+area	I-Location
+have	O
+a	O
+play	B-Amenity
+area	I-Amenity
+
+which	O
+is	O
+the	O
+closest	B-Location
+fine	B-Cuisine
+dining	I-Cuisine
+restaurant	O
+to	O
+hotel	O
+xyz	O
+that	O
+has	O
+a	O
+semi	B-Amenity
+causal	I-Amenity
+dress	I-Amenity
+code	I-Amenity
+
+which	O
+is	O
+the	O
+most	B-Price
+expensive	I-Price
+restaurant	O
+around	B-Location
+here	I-Location
+
+which	O
+italian	B-Cuisine
+restaurant	O
+delivers	B-Amenity
+
+which	O
+italian	B-Cuisine
+restaurant	O
+gives	O
+you	O
+the	O
+largest	B-Amenity
+portions	I-Amenity
+
+which	O
+italian	B-Cuisine
+restaurant	O
+has	O
+the	O
+best	B-Rating
+reviews	O
+
+which	O
+italian	B-Cuisine
+restaurant	O
+has	O
+the	O
+best	B-Rating
+selection	B-Amenity
+of	I-Amenity
+fine	I-Amenity
+wine	I-Amenity
+
+which	O
+italian	B-Cuisine
+restaurant	O
+has	O
+the	O
+cheapest	B-Price
+prices	O
+and	O
+the	O
+best	B-Rating
+reviews	O
+
+which	O
+korean	B-Cuisine
+takeout	B-Amenity
+places	O
+are	O
+known	O
+for	O
+quick	B-Amenity
+service	I-Amenity
+
+which	O
+local	B-Location
+chinese	B-Cuisine
+place	O
+has	O
+the	O
+best	B-Rating
+reviews	I-Rating
+
+which	O
+local	B-Location
+restaurant	O
+has	O
+the	O
+best	B-Rating
+menu	B-Amenity
+for	O
+catering	B-Amenity
+
+which	O
+local	O
+restaurants	O
+serve	O
+creme	B-Dish
+brulee	I-Dish
+
+which	O
+manhattan	B-Location
+restaurant	O
+stays	B-Hours
+open	I-Hours
+later	I-Hours
+in	I-Hours
+the	I-Hours
+evening	I-Hours
+on	I-Hours
+fridays	I-Hours
+the	B-Restaurant_Name
+four	I-Restaurant_Name
+seasons	I-Restaurant_Name
+or	O
+le	B-Restaurant_Name
+cirque	I-Restaurant_Name
+
+which	O
+mexican	B-Cuisine
+restaurant	O
+has	O
+the	O
+cheapest	B-Price
+price	O
+
+which	O
+mexican	B-Cuisine
+restaurants	O
+get	O
+the	O
+best	B-Rating
+ratings	I-Rating
+on	O
+yelp	O
+
+which	O
+moderately	B-Price
+priced	O
+mexican	B-Cuisine
+restaurants	O
+within	B-Location
+10	I-Location
+miles	I-Location
+have	O
+the	O
+best	B-Rating
+reviews	I-Rating
+
+which	O
+nearby	B-Location
+korean	B-Cuisine
+restaurants	O
+offer	O
+polite	B-Amenity
+service	I-Amenity
+
+which	O
+nice	B-Rating
+restaurant	O
+has	O
+the	O
+best	B-Rating
+lasagna	B-Dish
+
+which	O
+non	B-Cuisine
+fast	I-Cuisine
+food	O
+restaurants	O
+can	O
+i	O
+take	O
+my	O
+kids	B-Amenity
+to	O
+
+which	O
+of	O
+the	O
+chinese	B-Cuisine
+restaurants	O
+nearby	B-Location
+has	O
+the	O
+highest	B-Price
+prices	O
+
+which	O
+of	O
+the	O
+sub	B-Cuisine
+sandwich	I-Cuisine
+shops	O
+offering	O
+catering	B-Amenity
+services	I-Amenity
+have	O
+the	O
+best	B-Price
+prices	O
+
+which	O
+of	O
+these	O
+places	O
+has	O
+the	O
+best	B-Rating
+atmosphere	B-Amenity
+
+which	O
+of	O
+these	O
+restaurants	O
+are	O
+kid	B-Amenity
+friendly	I-Amenity
+
+which	O
+pizza	B-Restaurant_Name
+hut	I-Restaurant_Name
+in	B-Location
+the	I-Location
+city	I-Location
+has	B-Rating
+the	I-Rating
+best	I-Rating
+reviews	I-Rating
+
+which	O
+pizza	B-Cuisine
+place	B-Location
+nearest	I-Location
+to	O
+our	O
+hotel	B-Restaurant_Name
+has	O
+the	O
+best	B-Rating
+ratings	I-Rating
+for	O
+their	O
+delivery	B-Amenity
+service	I-Amenity
+
+which	O
+place	O
+has	O
+chowder	B-Dish
+at	O
+a	O
+great	B-Price
+price	O
+in	O
+boxford	B-Location
+
+which	O
+place	O
+has	O
+expensive	B-Price
+kobe	B-Dish
+beef	I-Dish
+
+which	O
+place	O
+has	O
+the	O
+biggest	B-Dish
+steak	I-Dish
+for	O
+the	O
+least	B-Price
+price	O
+in	B-Location
+our	I-Location
+area	I-Location
+
+which	O
+place	O
+that	O
+is	O
+not	B-Amenity
+part	I-Amenity
+of	I-Amenity
+a	I-Amenity
+chain	I-Amenity
+has	O
+the	O
+best	B-Rating
+coffee	B-Dish
+around	B-Location
+here	I-Location
+
+which	O
+places	O
+nearby	B-Location
+have	O
+a	O
+great	B-Amenity
+wine	I-Amenity
+list	I-Amenity
+
+which	O
+restauran	O
+thas	O
+really	O
+good	B-Rating
+pizza	B-Dish
+
+which	O
+restaurant	O
+can	O
+i	O
+bring	B-Amenity
+my	I-Amenity
+own	I-Amenity
+beer	I-Amenity
+
+which	O
+restaurant	O
+has	O
+a	O
+great	B-Dish
+meelet	I-Dish
+
+which	O
+restaurant	O
+has	O
+great	B-Rating
+ratings	I-Rating
+in	B-Location
+the	I-Location
+area	I-Location
+
+which	O
+restaurant	O
+has	O
+halal	B-Cuisine
+and	O
+is	O
+not	B-Price
+expensiive	I-Price
+
+which	O
+restaurant	O
+has	O
+mozzerella	B-Dish
+
+which	O
+restaurant	O
+has	O
+the	O
+best	B-Rating
+paella	B-Dish
+in	B-Location
+town	I-Location
+
+which	O
+restaurant	O
+has	O
+the	O
+best	B-Rating
+salmon	B-Dish
+
+which	O
+restaurant	O
+has	O
+the	O
+best	B-Rating
+selection	B-Dish
+of	I-Dish
+teas	I-Dish
+a	O
+bakery	B-Cuisine
+
+which	O
+restaurant	O
+has	O
+the	O
+clown	B-Amenity
+that	I-Amenity
+sings	I-Amenity
+happy	I-Amenity
+birthday	I-Amenity
+
+which	O
+restaurant	O
+has	O
+the	O
+most	B-Rating
+awards	I-Rating
+
+which	O
+restaurant	O
+have	O
+parking	B-Amenity
+
+which	O
+restaurant	O
+in	B-Location
+my	I-Location
+area	I-Location
+is	O
+best	B-Rating
+for	O
+their	O
+hamburgers	B-Dish
+
+which	O
+restaurant	O
+is	O
+close	B-Location
+by	I-Location
+and	O
+quiet	B-Amenity
+
+which	O
+restaurant	O
+is	O
+close	B-Location
+that	O
+has	O
+malaysian	B-Cuisine
+food	O
+and	O
+is	O
+open	B-Hours
+late	I-Hours
+
+which	O
+restaurant	O
+is	O
+closest	B-Location
+
+which	O
+restaurant	O
+is	O
+closest	B-Location
+to	I-Location
+our	I-Location
+house	I-Location
+
+which	O
+restaurant	O
+is	O
+eithin	B-Location
+10	I-Location
+miles	I-Location
+and	O
+has	O
+great	B-Rating
+beef	B-Dish
+prices	O
+
+which	O
+restaurant	O
+is	O
+good	O
+for	O
+friends	B-Amenity
+night	I-Amenity
+out	I-Amenity
+
+which	O
+restaurant	O
+is	O
+nearby	B-Location
+
+which	O
+restaurant	O
+is	O
+open	B-Hours
+after	I-Hours
+midnight	I-Hours
+and	O
+has	O
+reasonable	B-Price
+prices	O
+
+which	O
+restaurant	O
+is	O
+the	O
+cheapest	B-Price
+in	O
+a	O
+2	B-Location
+mile	I-Location
+radius	I-Location
+
+which	O
+restaurant	O
+is	O
+the	O
+local	B-Rating
+favourite	I-Rating
+for	O
+birthdays	B-Amenity
+
+which	O
+restaurant	O
+nearby	B-Location
+has	O
+the	O
+best	B-Rating
+reviews	I-Rating
+
+which	O
+restaurant	O
+on	O
+jefferson	B-Location
+street	I-Location
+has	O
+a	O
+fireplace	B-Amenity
+and	O
+good	B-Rating
+ratings	O
+
+which	O
+restaurant	O
+serves	O
+organic	B-Cuisine
+and	I-Cuisine
+natural	I-Cuisine
+food	O
+nearby	B-Location
+
+which	O
+restaurant	O
+should	O
+i	O
+go	O
+to	O
+if	O
+i	O
+want	O
+the	O
+best	B-Rating
+selection	I-Rating
+of	O
+wine	B-Dish
+and	O
+the	O
+best	B-Amenity
+service	I-Amenity
+
+which	O
+restaurant	O
+within	B-Location
+5	I-Location
+miles	I-Location
+has	O
+the	O
+highest	B-Rating
+rating	I-Rating
+
+which	O
+restaurant	O
+within	B-Location
+five	I-Location
+miles	I-Location
+has	O
+the	O
+best	B-Rating
+reviews	I-Rating
+
+which	O
+restaurant	O
+within	B-Location
+ten	I-Location
+miles	I-Location
+has	O
+the	O
+best	B-Rating
+reviews	I-Rating
+
+which	O
+restaurant	O
+would	O
+be	O
+best	O
+for	O
+a	O
+corporate	B-Amenity
+power	O
+lunch	B-Hours
+
+which	O
+restaurants	O
+are	O
+open	B-Hours
+seven	I-Hours
+days	I-Hours
+a	I-Hours
+week	I-Hours
+
+which	O
+restaurants	O
+are	O
+self	B-Amenity
+serve	I-Amenity
+
+which	O
+restaurants	O
+are	O
+the	O
+closest	B-Location
+to	O
+the	O
+airport	B-Location
+
+which	O
+restaurants	O
+around	B-Location
+here	I-Location
+have	O
+decent	B-Price
+prices	O
+and	O
+deliver	B-Amenity
+
+which	O
+restaurants	O
+close	B-Location
+by	I-Location
+have	O
+generous	B-Amenity
+portions	I-Amenity
+at	O
+reasonable	B-Price
+prices	O
+
+which	O
+restaurants	O
+have	O
+award	B-Rating
+winning	I-Rating
+chili	B-Dish
+in	O
+pittsburgh	B-Location
+pa	I-Location
+
+which	O
+restaurants	O
+have	O
+garlic	B-Dish
+inspired	I-Dish
+dishes	I-Dish
+that	O
+allow	O
+you	O
+to	O
+eat	B-Amenity
+at	I-Amenity
+the	I-Amenity
+bar	I-Amenity
+
+which	O
+restaurants	O
+in	O
+canton	B-Location
+ohio	I-Location
+are	O
+five	B-Rating
+star	I-Rating
+
+which	O
+restaurants	O
+in	B-Location
+my	I-Location
+area	I-Location
+are	O
+open	B-Hours
+daily	I-Hours
+
+which	O
+restaurants	O
+in	B-Location
+the	O
+area	B-Location
+are	O
+open	B-Hours
+this	I-Hours
+late	I-Hours
+
+which	O
+restaurants	O
+in	B-Location
+the	I-Location
+area	I-Location
+provide	O
+smoking	B-Amenity
+areas	I-Amenity
+
+which	O
+restaurants	O
+in	B-Location
+the	I-Location
+area	I-Location
+serve	O
+pork	B-Dish
+before	B-Hours
+11	I-Hours
+am	I-Hours
+
+which	O
+restaurants	O
+in	B-Location
+west	I-Location
+boxford	I-Location
+have	O
+potato	B-Dish
+fried	I-Dish
+and	O
+a	O
+prix	B-Amenity
+fixe	I-Amenity
+menu	I-Amenity
+
+which	O
+restaurants	O
+near	O
+home	O
+have	O
+five	B-Rating
+star	I-Rating
+yelp	O
+reviews	O
+
+which	O
+restaurants	O
+nearby	B-Location
+have	O
+late	B-Amenity
+night	I-Amenity
+specials	I-Amenity
+
+which	O
+restaurants	O
+nearby	B-Location
+offer	O
+dinner	B-Amenity
+theater	I-Amenity
+
+which	O
+restaurants	O
+that	O
+serve	O
+enchiladas	B-Dish
+are	O
+open	B-Hours
+everyday	I-Hours
+
+which	O
+restaurants	O
+will	O
+deliver	B-Amenity
+to	O
+my	O
+hotel	O
+after	B-Hours
+10	I-Hours
+p	I-Hours
+m	I-Hours
+
+which	O
+restaurants	O
+within	B-Location
+15	I-Location
+miles	I-Location
+have	O
+the	O
+best	B-Rating
+customer	I-Rating
+reviews	I-Rating
+
+which	O
+resturant	O
+has	O
+chicken	B-Dish
+fingers	I-Dish
+with	I-Dish
+honey	I-Dish
+mustard	I-Dish
+
+which	O
+savoy	B-Restaurant_Name
+french	B-Cuisine
+has	O
+the	O
+quietest	B-Amenity
+environment	O
+
+which	O
+shopping	O
+center	O
+is	O
+the	O
+rainforest	B-Restaurant_Name
+cafe	I-Restaurant_Name
+in	O
+
+which	O
+steakhouse	B-Cuisine
+has	O
+the	O
+best	B-Rating
+ratings	O
+
+which	O
+taco	B-Cuisine
+trucks	I-Cuisine
+are	O
+open	B-Hours
+right	I-Hours
+now	I-Hours
+
+which	O
+thai	B-Cuisine
+place	O
+in	B-Location
+town	I-Location
+is	O
+cheapest	B-Price
+
+which	O
+thai	B-Cuisine
+restaurant	O
+close	B-Location
+by	I-Location
+lets	O
+you	O
+make	B-Amenity
+reservations	I-Amenity
+online	I-Amenity
+
+which	O
+vegetarian	B-Cuisine
+restaurant	O
+has	O
+a	O
+great	B-Price
+beer	B-Dish
+list	O
+
+which	O
+venues	O
+serve	O
+fresh	O
+squeezed	B-Dish
+orange	I-Dish
+juice	I-Dish
+after	B-Hours
+10	I-Hours
+pm	I-Hours
+
+which	O
+way	O
+to	O
+jack	B-Restaurant_Name
+in	I-Restaurant_Name
+the	I-Restaurant_Name
+box	I-Restaurant_Name
+
+which	O
+who	O
+makes	O
+the	O
+best	B-Rating
+onion	B-Dish
+rings	I-Dish
+
+who	O
+can	O
+sell	O
+me	O
+some	O
+pancakes	B-Dish
+
+who	O
+cooks	O
+the	O
+best	B-Rating
+steak	B-Dish
+in	B-Location
+town	I-Location
+
+who	O
+delivers	B-Amenity
+pizzas	B-Dish
+the	O
+fastest	B-Amenity
+in	O
+the	O
+down	B-Location
+town	I-Location
+area	I-Location
+
+who	O
+delivers	B-Amenity
+to	O
+south	B-Location
+main	I-Location
+after	B-Hours
+midnight	I-Hours
+on	I-Hours
+weekends	I-Hours
+
+who	O
+gives	O
+large	B-Amenity
+portions	I-Amenity
+thats	O
+open	B-Hours
+before	I-Hours
+8	I-Hours
+am	I-Hours
+
+who	O
+grills	B-Cuisine
+the	O
+cheapest	B-Price
+bratwurst	B-Dish
+in	B-Location
+town	I-Location
+
+who	O
+has	O
+a	O
+good	B-Rating
+happy	B-Amenity
+hour	I-Amenity
+
+who	O
+has	O
+average	B-Rating
+service	I-Rating
+thats	O
+open	B-Hours
+until	I-Hours
+2	I-Hours
+am	I-Hours
+
+who	O
+has	O
+crawfish	B-Dish
+etouffee	I-Dish
+
+who	O
+has	O
+good	B-Rating
+late	B-Hours
+night	I-Hours
+greek	B-Cuisine
+food	O
+
+who	O
+has	O
+mooshi	B-Dish
+mooshi	I-Dish
+
+who	O
+has	O
+skordalia	B-Dish
+
+who	O
+has	O
+some	O
+good	B-Rating
+chicken	B-Dish
+soup	I-Dish
+
+who	O
+has	O
+specials	B-Amenity
+for	O
+valentines	B-Amenity
+day	O
+
+who	O
+has	O
+swordfish	B-Dish
+steak	I-Dish
+
+who	O
+has	O
+the	O
+best	B-Rating
+buffalo	B-Dish
+wings	I-Dish
+in	O
+this	B-Location
+area	I-Location
+
+who	O
+has	O
+the	O
+best	B-Rating
+food	O
+in	B-Location
+the	I-Location
+area	I-Location
+
+who	O
+has	O
+the	O
+best	B-Rating
+french	B-Dish
+fries	I-Dish
+
+who	O
+has	O
+the	O
+best	B-Rating
+pineapple	B-Dish
+upside	I-Dish
+down	I-Dish
+cake	I-Dish
+
+who	O
+has	O
+the	O
+best	B-Rating
+shish	B-Dish
+kebabs	I-Dish
+on	O
+long	B-Location
+island	I-Location
+
+who	O
+has	O
+the	O
+cheapest	B-Price
+asian	B-Cuisine
+food	O
+buffet	B-Amenity
+on	O
+the	O
+south	B-Location
+side	I-Location
+
+who	O
+has	O
+the	O
+cheapest	B-Price
+completely	O
+vegan	B-Dish
+spring	I-Dish
+rolls	I-Dish
+
+who	O
+has	O
+the	O
+cheapest	B-Price
+take	B-Amenity
+out	I-Amenity
+korean	B-Cuisine
+food	O
+in	O
+the	O
+down	B-Location
+town	I-Location
+district	I-Location
+
+who	O
+has	O
+the	O
+freshest	B-Rating
+sushi	B-Dish
+
+who	O
+has	O
+the	O
+highest	B-Rating
+rated	I-Rating
+deep	B-Dish
+dish	I-Dish
+pizza	I-Dish
+in	O
+chicago	B-Location
+
+who	O
+has	O
+the	O
+highest	B-Rating
+rated	I-Rating
+deep	B-Dish
+dish	I-Dish
+pizza	I-Dish
+in	O
+this	O
+area	B-Location
+
+who	O
+has	O
+the	O
+tastiest	O
+authentic	B-Cuisine
+indian	I-Cuisine
+cuisine	O
+
+who	O
+has	O
+the	O
+widest	O
+variety	O
+of	O
+bagels	B-Dish
+that	O
+i	O
+can	O
+get	O
+without	O
+cream	B-Dish
+cheese	I-Dish
+
+who	O
+has	O
+theater	B-Location
+district	I-Location
+dining	B-Amenity
+thats	O
+not	B-Location
+far	I-Location
+from	I-Location
+here	I-Location
+
+who	O
+has	O
+waffles	B-Dish
+at	O
+this	O
+hour	B-Hours
+
+who	O
+is	O
+serving	O
+a	O
+chili	B-Dish
+cheese	I-Dish
+dog	I-Dish
+
+who	O
+is	O
+serving	O
+sashimi	B-Dish
+thats	O
+open	B-Hours
+
+who	O
+makes	O
+baklava	B-Dish
+
+who	O
+makes	O
+moo	B-Dish
+shu	I-Dish
+pork	I-Dish
+
+who	O
+makes	O
+really	O
+good	O
+chowder	B-Dish
+in	O
+boxford	B-Location
+for	O
+cheap	B-Price
+
+who	O
+makes	O
+the	O
+best	B-Rating
+chicken	B-Dish
+sandwich	I-Dish
+
+who	O
+makes	O
+the	O
+best	B-Rating
+chili	B-Dish
+with	I-Dish
+macaroni	I-Dish
+noodles	I-Dish
+in	O
+it	O
+
+who	O
+makes	O
+the	O
+best	B-Rating
+fried	B-Dish
+chicken	I-Dish
+in	B-Location
+this	I-Location
+town	I-Location
+
+who	O
+makes	O
+the	O
+best	B-Rating
+sandwiches	B-Dish
+around	B-Location
+here	I-Location
+
+who	O
+makes	O
+the	O
+best	B-Rating
+spring	B-Dish
+rolls	I-Dish
+around	B-Location
+here	I-Location
+
+who	O
+offers	O
+a	O
+free	B-Amenity
+meal	I-Amenity
+on	I-Amenity
+ones	I-Amenity
+birthday	I-Amenity
+
+who	O
+runs	O
+a	O
+1950s	B-Cuisine
+nostalgia	I-Cuisine
+diner	I-Cuisine
+
+who	O
+sells	O
+fried	B-Dish
+green	I-Dish
+tomatoes	I-Dish
+
+who	O
+sells	O
+kosher	B-Cuisine
+food	O
+in	B-Location
+the	I-Location
+area	I-Location
+
+who	O
+sells	O
+the	O
+best	B-Rating
+slices	B-Dish
+of	I-Dish
+carrot	I-Dish
+cake	I-Dish
+in	B-Location
+town	I-Location
+
+who	O
+sells	O
+the	O
+cheapest	B-Price
+fried	B-Dish
+chicken	I-Dish
+take	B-Amenity
+out	I-Amenity
+
+who	O
+serves	O
+a	O
+blizzard	B-Dish
+dessert	I-Dish
+
+who	O
+serves	O
+albanian	B-Cuisine
+cuisine	O
+
+who	O
+serves	O
+bacon	B-Dish
+wrapped	I-Dish
+hotdogs	I-Dish
+
+who	O
+serves	O
+crepes	B-Dish
+
+who	O
+serves	O
+dim	B-Cuisine
+sum	I-Cuisine
+right	B-Hours
+now	I-Hours
+
+who	O
+serves	O
+fresh	B-Cuisine
+seafood	I-Cuisine
+in	O
+kansas	B-Location
+city	I-Location
+
+who	O
+serves	O
+hominy	B-Dish
+grits	I-Dish
+
+who	O
+serves	O
+loaded	O
+nachos	B-Dish
+around	B-Location
+here	I-Location
+
+who	O
+serves	O
+oaxacan	B-Dish
+corn	I-Dish
+mole	I-Dish
+
+who	O
+serves	O
+pita	B-Dish
+bread	I-Dish
+in	O
+needham	B-Location
+heights	I-Location
+after	B-Hours
+2	I-Hours
+am	I-Hours
+
+who	O
+serves	O
+quiche	B-Dish
+lorraine	I-Dish
+
+who	O
+serves	O
+soup	B-Dish
+in	O
+a	O
+bread	B-Dish
+bowl	I-Dish
+
+who	O
+serves	O
+steak	B-Dish
+and	I-Dish
+kidney	I-Dish
+pudding	I-Dish
+
+who	O
+serves	O
+the	O
+best	B-Rating
+pizza	B-Dish
+in	O
+town	B-Location
+
+whos	O
+got	O
+the	O
+most	O
+popular	B-Rating
+thin	B-Dish
+crust	I-Dish
+pizza	I-Dish
+in	B-Location
+town	I-Location
+
+why	O
+dont	O
+we	O
+go	O
+to	O
+a	O
+nice	B-Rating
+steak	B-Cuisine
+house	O
+
+will	O
+i	O
+be	O
+close	B-Location
+to	O
+a	O
+sea	B-Cuisine
+food	I-Cuisine
+restaurant	O
+in	O
+the	O
+next	O
+20	B-Location
+minutes	I-Location
+
+will	O
+i	O
+find	O
+an	O
+affordable	B-Price
+restaurant	O
+near	B-Location
+me	I-Location
+
+will	O
+the	O
+japanese	B-Cuisine
+restaurant	O
+allow	B-Amenity
+me	I-Amenity
+to	I-Amenity
+sing	I-Amenity
+loudly	I-Amenity
+while	O
+i	O
+eat	O
+my	O
+stir	B-Dish
+fry	I-Dish
+vegetables	I-Dish
+
+will	O
+the	O
+mexican	B-Cuisine
+restaurant	O
+kick	O
+me	O
+out	O
+for	O
+wearing	B-Location
+a	I-Location
+sombrero	I-Location
+
+will	O
+you	O
+find	O
+me	O
+a	O
+cheap	B-Price
+place	O
+for	O
+dinner	B-Hours
+
+will	O
+you	O
+find	O
+me	O
+a	O
+restaurant	O
+that	O
+has	O
+a	O
+parking	B-Amenity
+deck	I-Amenity
+that	O
+is	O
+not	B-Location
+even	I-Location
+remotely	I-Location
+close	I-Location
+but	O
+serves	O
+the	O
+best	B-Rating
+chicken	B-Dish
+wings	I-Dish
+in	B-Location
+town	I-Location
+
+will	O
+you	O
+give	O
+me	O
+directions	O
+to	O
+the	O
+closest	B-Location
+restaurant	O
+with	O
+indoor	B-Amenity
+dining	I-Amenity
+suitable	I-Amenity
+for	I-Amenity
+young	I-Amenity
+children	I-Amenity
+
+will	O
+you	O
+make	O
+me	O
+a	O
+reservation	O
+at	O
+the	O
+german	B-Cuisine
+restaurant	O
+on	O
+main	B-Location
+street	I-Location
+
+with	O
+smoking	B-Amenity
+section	I-Amenity
+
+within	B-Location
+10	I-Location
+miles	I-Location
+a	O
+korean	B-Cuisine
+barbecue	I-Cuisine
+place	O
+
+within	B-Location
+an	I-Location
+hours	I-Location
+drive	I-Location
+what	O
+places	O
+are	O
+highest	B-Rating
+recommended	I-Rating
+for	O
+having	O
+the	O
+best	B-Rating
+steak	B-Dish
+
+work	O
+is	O
+over	O
+who	O
+serves	O
+a	O
+local	B-Amenity
+beer	B-Dish
+
+would	O
+10	B-Price
+be	O
+enough	O
+for	O
+a	O
+lunch	B-Hours
+entree	O
+at	O
+olive	B-Restaurant_Name
+garden	I-Restaurant_Name
+
+would	O
+like	O
+directions	O
+to	O
+ihop	B-Restaurant_Name
+
+would	O
+like	O
+outdoor	B-Amenity
+seating	I-Amenity
+casual	I-Amenity
+dining	I-Amenity
+
+would	O
+like	O
+to	O
+call	O
+the	O
+closest	B-Location
+applebees	B-Restaurant_Name
+
+would	O
+like	O
+to	O
+find	O
+chinese	B-Cuisine
+food	O
+
+would	O
+like	O
+to	O
+find	O
+nearest	B-Location
+wendys	B-Restaurant_Name
+
+would	O
+like	O
+to	O
+find	O
+the	O
+nearest	B-Location
+wendys	B-Restaurant_Name
+
+would	O
+like	O
+to	O
+indulge	O
+in	O
+great	B-Rating
+pancakes	B-Dish
+
+would	O
+like	O
+to	O
+sit	B-Amenity
+outside	I-Amenity
+with	O
+my	O
+coffee	B-Dish
+and	O
+pastry	B-Dish
+
+would	O
+you	O
+be	O
+able	O
+to	O
+find	O
+a	O
+place	O
+that	O
+has	O
+takeout	B-Amenity
+pizza	B-Dish
+in	O
+my	B-Location
+area	I-Location
+
+would	O
+you	O
+be	O
+able	O
+to	O
+tell	O
+me	O
+if	O
+a	O
+restaurant	O
+had	O
+a	O
+high	B-Rating
+number	I-Rating
+of	I-Rating
+poor	I-Rating
+ratings	I-Rating
+
+would	O
+you	O
+direct	O
+me	O
+to	O
+the	O
+closest	B-Location
+deli	B-Cuisine
+which	O
+specializes	O
+in	O
+kosher	B-Cuisine
+food	O
+
+would	O
+you	O
+locate	O
+the	O
+chinese	B-Cuisine
+restaurant	O
+open	B-Hours
+24	I-Hours
+hours	I-Hours
+nearby	B-Location
+
+would	O
+you	O
+look	O
+for	O
+a	O
+good	B-Rating
+bbq	B-Cuisine
+place	O
+
+would	O
+you	O
+mind	O
+finding	O
+me	O
+a	O
+restaurant	O
+that	O
+has	O
+a	O
+kid	B-Amenity
+friendly	I-Amenity
+atmosphere	I-Amenity
+with	O
+possible	O
+tourist	B-Amenity
+opportunities	I-Amenity
+
+would	O
+you	O
+please	O
+take	O
+me	O
+to	O
+the	O
+closest	B-Location
+diner	B-Cuisine
+
+yea	O
+i	O
+want	O
+some	O
+cheap	B-Price
+mexican	B-Cuisine
+food	O
+that	O
+serves	O
+alcohol	B-Dish
+and	O
+lets	B-Amenity
+you	I-Amenity
+smoke	I-Amenity
+
+yeah	O
+is	O
+there	O
+an	O
+italian	B-Cuisine
+restaurant	O
+nearby	B-Location
+with	O
+good	B-Rating
+reviews	I-Rating
+
+yeah	O
+where	O
+is	O
+the	O
+nearest	B-Location
+burger	B-Cuisine
+joint	I-Cuisine
+
+yes	O
+
+yes	O
+i	O
+need	O
+a	O
+reasonable	B-Price
+price	O
+chinese	B-Cuisine
+restaurant	O
+
+yes	O
+i	O
+need	O
+to	O
+find	O
+the	O
+lowest	B-Price
+cost	B-Location
+family	B-Amenity
+oriented	I-Amenity
+restaurant	O
+
+yes	O
+i	O
+need	O
+to	O
+find	O
+the	O
+nearest	B-Location
+bar	B-Amenity
+and	I-Amenity
+grill	I-Amenity
+type	O
+restaurant	O
+
+yes	O
+i	O
+want	O
+to	O
+try	O
+out	O
+sonics	B-Restaurant_Name
+food	O
+please	O
+
+yes	O
+if	O
+you	O
+could	O
+please	O
+find	O
+me	O
+a	O
+4	B-Rating
+star	I-Rating
+italian	B-Cuisine
+restaurant	O
+that	O
+is	O
+smoke	B-Amenity
+free	I-Amenity
+and	O
+has	O
+outdoor	B-Amenity
+seating	I-Amenity
+thank	O
+you	O
+
+yes	O
+in	B-Restaurant_Name
+and	I-Restaurant_Name
+out	I-Restaurant_Name
+burger	I-Restaurant_Name
+is	O
+on	O
+my	O
+list	O
+for	O
+today	O
+
+yes	O
+please	O
+assist	O
+me	O
+in	O
+locating	O
+an	O
+all	B-Amenity
+you	I-Amenity
+can	I-Amenity
+eat	I-Amenity
+after	B-Hours
+hours	I-Hours
+venue	I-Hours
+
+yes	O
+please	O
+locate	O
+the	O
+nearest	B-Location
+chinese	B-Cuisine
+take	B-Amenity
+out	I-Amenity
+restaurant	O
+
+yes	O
+please	O
+locate	O
+the	O
+nearest	B-Location
+seafood	B-Cuisine
+restaurant	O
+
+yes	O
+we	O
+are	O
+looking	O
+for	O
+a	O
+formal	B-Amenity
+restaurant	O
+today	O
+since	O
+it	O
+is	O
+my	O
+wife	O
+and	O
+my	O
+anniversary	B-Amenity
+can	O
+you	O
+help	O
+us	O
+
+yes	O
+we	O
+need	O
+a	O
+to	O
+stop	O
+at	O
+five	B-Restaurant_Name
+guys	I-Restaurant_Name
+for	O
+a	O
+nice	O
+burger	B-Dish
+
+yes	O
+we	O
+need	O
+to	O
+find	O
+a	O
+cheap	B-Price
+deli	B-Cuisine
+with	O
+good	B-Rating
+hours	B-Hours
+for	O
+our	O
+childrens	B-Amenity
+lunches	B-Hours
+dinos	B-Restaurant_Name
+is	O
+open	O
+all	O
+day	O
+5	B-Hours
+days	I-Hours
+a	I-Hours
+week	I-Hours
+score	O
+
+yes	O
+you	O
+can	O
+you	O
+look	O
+for	O
+a	O
+restaurant	O
+

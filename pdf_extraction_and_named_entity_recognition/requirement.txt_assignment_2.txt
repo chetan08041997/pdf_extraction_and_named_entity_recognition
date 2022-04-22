@@ -1,0 +1,4 @@
+pymupdf
+camelot
+pandas
+#gostscript (downloaded by installer file)
